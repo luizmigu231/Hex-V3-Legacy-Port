@@ -1,0 +1,13 @@
+{
+    "title": "Modchart Engine",
+    "id": "mod-engine",
+    "description": "Create loadable hscript modcharts",
+    "contributors": [
+      {
+        "name": "Kade"
+      }
+    ],
+    "api_version": "0.9.0",
+    "mod_version": "1.0.0",
+    "license": "Apache-2.0"
+  }

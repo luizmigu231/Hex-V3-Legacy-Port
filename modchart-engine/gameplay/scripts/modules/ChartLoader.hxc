@@ -1,0 +1,32 @@
+package kade.hex.modules;
+
+import funkin.modding.CppiaScripts;
+import funkin.modding.events.ScriptEvent;
+import funkin.modding.module.Module;
+import funkin.modding.module.ModuleHandler;
+
+class ChartLoader extends Module
+{
+    public function new()
+    {
+        super("modchart-engine-chart-loader", 1);
+    }
+
+    public override function onCreate(event:ScriptEvent):Void
+    {
+        super.onCreate(event);
+
+        var added:Bool = false;
+
+        for (name in CppiaScripts.listExtending("kade.hex.chart.Chart"))
+        {
+            var made = CppiaScripts.create(name, []);
+            if (made == null || ModuleHandler.getModule(made.moduleId) != null) continue;
+
+            ModuleHandler.addToModuleCache(made);
+            added = true;
+        }
+
+        if (added) ModuleHandler.reorderModuleCache();
+    }
+}
