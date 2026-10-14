@@ -1,0 +1,135 @@
+{
+	"songs": [
+		[
+			"Dunk",
+			"hex",
+			[
+				60,
+				254,
+				255
+			],
+			"dunk",
+			"YingYang48",
+			[]
+		],
+		[
+			"Dunk (2026)",
+			"hex",
+			[
+				60,
+				254,
+				255
+			],
+			"dunk-(2026)",
+			"YingYang48",
+			[]
+		],
+		[
+			"RAM",
+			"hex",
+			[
+				255,
+				54,
+				75
+			],
+			"ram",
+			"YingYang48",
+			[]
+		],
+		[
+			"Ram (2026)",
+			"hex",
+			[
+				255,
+				54,
+				75
+			],
+			"Ram (2026)",
+			"YingYang48",
+			[]
+		],
+		[
+			"Hello World",
+			"hex",
+			[
+				60,
+				254,
+				255
+			],
+			"hello-world",
+			"YingYang48",
+			[]
+		],
+		[
+			"Hello World (2026)",
+			"hex",
+			[
+				60,
+				254,
+				255
+			],
+			"hello-world-(2026)",
+			"YingYang48",
+			[]
+		],
+		[
+			"Glitcher",
+			"wirehex",
+			[
+				60,
+				254,
+				255
+			],
+			"glitcher",
+			"YingYang48",
+			[]
+		],
+		[
+			"Glitcher (2026)",
+			"wirehex",
+			[
+				60,
+				254,
+				255
+			],
+			"glitcher-(2026)",
+			"YingYang48",
+			[]
+		],
+		[
+			"Encore",
+			"hex",
+			[
+				60,
+				254,
+				255
+			],
+			"encore",
+			"YingYang48",
+			[]
+		],
+		[
+			"Encore (2026)",
+			"hex",
+			[
+				60,
+				254,
+				255
+			],
+			"encore-(2026)",
+			"YingYang48",
+			[]
+		]
+	],
+	"section": "week-x",
+	"storyName": "Week X",
+	"weekBefore": "week 0",
+	"weekName": "Week X Freeplay",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"hideFreeplay": false,
+	"node": {
+		"parent": "root",
+		"direction": "east"
+	}
+}

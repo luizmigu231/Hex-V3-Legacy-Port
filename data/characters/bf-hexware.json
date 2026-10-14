@@ -1,0 +1,132 @@
+{
+  "animations": [
+    {
+      "offsets": [
+        8.0,
+        -6.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "intro",
+      "indices": [],
+      "name": "intro"
+    },
+    {
+      "offsets": [
+        -5.0,
+        0.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "idle"
+    },
+    {
+      "offsets": [
+        43.0,
+        -6.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "left"
+    },
+    {
+      "offsets": [
+        -5.0,
+        -6.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "down"
+    },
+    {
+      "offsets": [
+        -27.0,
+        30.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "up"
+    },
+    {
+      "offsets": [
+        -27.0,
+        -7.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "right"
+    },
+    {
+      "offsets": [
+        107.0,
+        -5.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFTmiss",
+      "indices": [],
+      "name": "missLEFT"
+    },
+    {
+      "offsets": [
+        79.0,
+        -4.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWNmiss",
+      "indices": [],
+      "name": "missDOWN"
+    },
+    {
+      "offsets": [
+        8.0,
+        31.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUPmiss",
+      "indices": [],
+      "name": "missUP"
+    },
+    {
+      "offsets": [
+        21.0,
+        -5.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHTmiss",
+      "indices": [],
+      "name": "missRIGHT"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/hex/bf-hexware",
+  "position": [
+    0.0,
+    0.0
+  ],
+  "dance_every": 2,
+  "healthicon": "bf",
+  "flip_x": true,
+  "healthbar_colour": -12779777,
+  "camera_position": [
+    0,
+    0
+  ],
+  "sing_duration": 4.0,
+  "scale": 1.0,
+  "scalableOffsets": false,
+  "vslice_sustains": false
+}

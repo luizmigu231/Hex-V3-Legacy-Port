@@ -1,0 +1,135 @@
+{
+  "animations": [
+    {
+      "offsets": [
+        0.0,
+        0.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "richguy idle"
+    },
+    {
+      "offsets": [
+        0.0,
+        0.0
+      ],
+      "loop": true,
+      "fps": 24,
+      "anim": "idle-hold",
+      "indices": [
+        11,
+        12
+      ],
+      "name": "richguy idle"
+    },
+    {
+      "offsets": [
+        -79.0,
+        0.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "richguy left"
+    },
+    {
+      "offsets": [
+        -76.0,
+        0.0
+      ],
+      "loop": true,
+      "fps": 24,
+      "anim": "singLEFT-hold",
+      "indices": [],
+      "name": "richguy left"
+    },
+    {
+      "offsets": [
+        -91.0,
+        -58.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "richguy down"
+    },
+    {
+      "offsets": [
+        -98.0,
+        -56.0
+      ],
+      "loop": true,
+      "fps": 24,
+      "anim": "singDOWN-hold",
+      "indices": [],
+      "name": "richguy down"
+    },
+    {
+      "offsets": [
+        54.0,
+        22.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "richguy up"
+    },
+    {
+      "offsets": [
+        54.0,
+        20.0
+      ],
+      "loop": true,
+      "fps": 24,
+      "anim": "singUP-hold",
+      "indices": [],
+      "name": "richguy up"
+    },
+    {
+      "offsets": [
+        -127.0,
+        -3.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "richguy right"
+    },
+    {
+      "offsets": [
+        -126.0,
+        -2.0
+      ],
+      "loop": true,
+      "fps": 24,
+      "anim": "singRIGHT-hold",
+      "indices": [],
+      "name": "richguy right"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/hex/rich",
+  "position": [
+    0.0,
+    0.0
+  ],
+  "dance_every": 1,
+  "healthicon": "rich",
+  "flip_x": false,
+  "healthbar_colour": -12779777,
+  "camera_position": [
+    0,
+    0
+  ],
+  "sing_duration": 4.0,
+  "scale": 1.0,
+  "scalableOffsets": false,
+  "vslice_sustains": false
+}

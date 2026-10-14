@@ -1,0 +1,154 @@
+{
+  "animations": [
+    {
+      "offsets": [
+        0.0,
+        0.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "idle0"
+    },
+    {
+      "offsets": [
+        0.0,
+        0.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "alt_idle",
+      "indices": [],
+      "name": "altidle"
+    },
+    {
+      "offsets": [
+        0.0,
+        0.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle_transition",
+      "indices": [],
+      "name": "1TransitionIdle"
+    },
+    {
+      "offsets": [
+        0.0,
+        0.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle_transition2",
+      "indices": [],
+      "name": "2TransitionIdle"
+    },
+    {
+      "offsets": [
+        198.0,
+        -49.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "left0"
+    },
+    {
+      "offsets": [
+        75.0,
+        -150.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "down0"
+    },
+    {
+      "offsets": [
+        12.0,
+        55.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "up0"
+    },
+    {
+      "offsets": [
+        30.0,
+        -86.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "right0"
+    },
+    {
+      "offsets": [
+        188.0,
+        -59.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFTmiss",
+      "indices": [],
+      "name": "mleft"
+    },
+    {
+      "offsets": [
+        75.0,
+        -150.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWNmiss",
+      "indices": [],
+      "name": "mdown0"
+    },
+    {
+      "offsets": [
+        7.0,
+        50.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUPmiss",
+      "indices": [],
+      "name": "mup0"
+    },
+    {
+      "offsets": [
+        25.0,
+        -81.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHTmiss",
+      "indices": [],
+      "name": "mright0"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/hex/hex-hb-2",
+  "position": [
+    0.0,
+    0.0
+  ],
+  "dance_every": 2,
+  "healthicon": "hex",
+  "flip_x": false,
+  "healthbar_colour": -12779777,
+  "camera_position": [
+    0,
+    0
+  ],
+  "sing_duration": 4.0,
+  "scale": 1.0,
+  "scalableOffsets": false,
+  "vslice_sustains": false
+}

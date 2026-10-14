@@ -1,0 +1,88 @@
+{
+  "animations": [
+    {
+      "offsets": [
+        0.0,
+        0.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "Idle"
+    },
+    {
+      "offsets": [
+        70.0,
+        150.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "transition",
+      "indices": [],
+      "name": "Transition_1"
+    },
+    {
+      "offsets": [
+        18.0,
+        -69.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "Left"
+    },
+    {
+      "offsets": [
+        155.0,
+        -90.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "Down"
+    },
+    {
+      "offsets": [
+        182.0,
+        -75.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "Up"
+    },
+    {
+      "offsets": [
+        -15.0,
+        -71.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "Right"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/hex/slasher",
+  "position": [
+    0.0,
+    0.0
+  ],
+  "dance_every": 2,
+  "healthicon": "slasher",
+  "flip_x": false,
+  "healthbar_colour": -12779777,
+  "camera_position": [
+    0,
+    0
+  ],
+  "sing_duration": 4.0,
+  "scale": 1.35,
+  "scalableOffsets": false,
+  "vslice_sustains": false
+}

@@ -1,0 +1,147 @@
+{
+  "songs": [
+    [
+      "B.I.T.",
+      "hex",
+      [
+        60,
+        254,
+        255
+      ],
+      "b.i.t.",
+      "YingYang48",
+      []
+    ],
+    [
+      "B.I.T. (Erect)",
+      "hex",
+      [
+        60,
+        254,
+        255
+      ],
+      "b.i.t.-(erect)",
+      "YingYang48",
+      []
+    ],
+    [
+      "Jumpin'",
+      "hex",
+      [
+        60,
+        254,
+        255
+      ],
+      "jumpin'",
+      "YingYang48",
+      []
+    ],
+    [
+      "Headbasher",
+      "slasher",
+      [
+        60,
+        254,
+        255
+      ],
+      "headbasher",
+      "YingYang48",
+      []
+    ],
+    [
+      "Bombs N' Combs",
+      "whitty",
+      [
+        255,
+        112,
+        52
+      ],
+      "bombs-n'-combs",
+      "YingYang48",
+      []
+    ],
+    [
+      "LAN",
+      "cyrix",
+      [
+        60,
+        254,
+        255
+      ],
+      "lan",
+      "YingYang48",
+      []
+    ],
+    [
+      "HEXcript",
+      "hex",
+      [
+        60,
+        254,
+        255
+      ],
+      "hexcript",
+      "YingYang48 ft. KadeDevl",
+      []
+    ],
+    [
+      "That Retro Song",
+      "rich",
+      [
+        230,
+        230,
+        230
+      ],
+      "that-retro-song",
+      "YingYang48",
+      []
+    ],
+    [
+      "Eye2Eye",
+      "iris",
+      [
+        60,
+        254,
+        255
+      ],
+      "eye2eye",
+      "YingYang48",
+      []
+    ],
+    [
+      "Tangerine",
+      "coda",
+      [
+        255,
+        132,
+        43
+      ],
+      "tangerine",
+      "YingYang48",
+      []
+    ],
+    [
+      "Right Pace",
+      "bf",
+      [
+        255,
+        185,
+        66
+      ],
+      "right-pace",
+      "YingYang48",
+      []
+    ]
+  ],
+  "section": "event-x",
+  "storyName": "Event X",
+  "weekBefore": "week 0",
+  "weekName": "Event X Freeplay",
+  "startUnlocked": true,
+  "hideStoryMode": true,
+  "hideFreeplay": false,
+  "node": {
+    "parent": "root",
+    "direction": "east"
+  }
+}

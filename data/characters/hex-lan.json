@@ -1,0 +1,121 @@
+{
+  "animations": [
+    {
+      "offsets": [
+        -1.0,
+        0.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "ídle"
+    },
+    {
+      "offsets": [
+        33.0,
+        -91.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "rleft"
+    },
+    {
+      "offsets": [
+        9.0,
+        -303.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "rdown"
+    },
+    {
+      "offsets": [
+        -18.0,
+        8.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "rup"
+    },
+    {
+      "offsets": [
+        -9.0,
+        -36.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "rright"
+    },
+    {
+      "offsets": [
+        32.0,
+        -98.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFTmiss",
+      "indices": [],
+      "name": "leftmiss"
+    },
+    {
+      "offsets": [
+        7.0,
+        -320.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWNmiss",
+      "indices": [],
+      "name": "downmiss"
+    },
+    {
+      "offsets": [
+        -15.0,
+        14.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUPmiss",
+      "indices": [],
+      "name": "upmiss"
+    },
+    {
+      "offsets": [
+        -14.0,
+        -37.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHTmiss",
+      "indices": [],
+      "name": "rightmiss"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/hex/hex-lan",
+  "position": [
+    0.0,
+    0.0
+  ],
+  "dance_every": 1,
+  "healthicon": "hex",
+  "flip_x": true,
+  "healthbar_colour": -12779777,
+  "camera_position": [
+    0,
+    0
+  ],
+  "sing_duration": 4.0,
+  "scale": 0.7,
+  "scalableOffsets": false,
+  "vslice_sustains": false
+}

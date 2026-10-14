@@ -1,0 +1,37 @@
+{
+  "directory": "",
+  "defaultZoom": 0.9,
+  "isPixelStage": false,
+  "boyfriend": [
+    1200.0,
+    700.0
+  ],
+  "opponent": [
+    200.0,
+    700.0
+  ],
+  "girlfriend": [
+    660.0,
+    575.0
+  ],
+  "camera_boyfriend": [
+    -350.0,
+    -215.0
+  ],
+  "camera_opponent": [
+    300.0,
+    -100.0
+  ],
+  "camera_girlfriend": [
+    0.0,
+    0.0
+  ],
+  "bfZIndex": 300,
+  "dadZIndex": 200,
+  "gfZIndex": 100,
+  "hide_girlfriend": false,
+  "flags": {
+    "hexV3": true,
+    "streetside": true
+  }
+}

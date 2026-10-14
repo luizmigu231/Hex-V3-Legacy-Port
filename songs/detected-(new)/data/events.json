@@ -1,0 +1,677 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"HEX FocusCamera",
+						"1",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				4923,
+				[
+					[
+						"HEX FocusCamera",
+						"0",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				9846.154,
+				[
+					[
+						"HEX FocusCamera",
+						"1",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				14769.154,
+				[
+					[
+						"HEX FocusCamera",
+						"0",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				19692,
+				[
+					[
+						"HEX FocusCamera",
+						"1",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				22154,
+				[
+					[
+						"HEX FocusCamera",
+						"0",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				24615,
+				[
+					[
+						"HEX FocusCamera",
+						"1",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				25846,
+				[
+					[
+						"HEX FocusCamera",
+						"0",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				27077,
+				[
+					[
+						"HEX FocusCamera",
+						"1",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				27384.615,
+				[
+					[
+						"HEX FocusCamera",
+						"0",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				27692.308,
+				[
+					[
+						"HEX FocusCamera",
+						"1",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				28000,
+				[
+					[
+						"HEX FocusCamera",
+						"0",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				29538,
+				[
+					[
+						"HEX FocusCamera",
+						"1",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				34462,
+				[
+					[
+						"HEX FocusCamera",
+						"0",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				39385,
+				[
+					[
+						"HEX FocusCamera",
+						"1",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				44308,
+				[
+					[
+						"HEX FocusCamera",
+						"0",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				49231,
+				[
+					[
+						"HEX FocusCamera",
+						"1",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				51692,
+				[
+					[
+						"HEX FocusCamera",
+						"0",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				54154,
+				[
+					[
+						"HEX FocusCamera",
+						"1",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				56615,
+				[
+					[
+						"HEX FocusCamera",
+						"0",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				59077,
+				[
+					[
+						"HEX FocusCamera",
+						"1",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				61538,
+				[
+					[
+						"HEX FocusCamera",
+						"0",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"HEX FocusCamera",
+						"1",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				65231,
+				[
+					[
+						"HEX FocusCamera",
+						"0",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				66462,
+				[
+					[
+						"HEX FocusCamera",
+						"1",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				67692,
+				[
+					[
+						"HEX FocusCamera",
+						"0",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				68923.077,
+				[
+					[
+						"HEX FocusCamera",
+						"1",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				73385,
+				[
+					[
+						"HEX FocusCamera",
+						"1",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				73846.154,
+				[
+					[
+						"HEX FocusCamera",
+						"0",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				78769,
+				[
+					[
+						"HEX FocusCamera",
+						"1",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				83692,
+				[
+					[
+						"HEX FocusCamera",
+						"0",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				88615,
+				[
+					[
+						"HEX FocusCamera",
+						"1",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				91077,
+				[
+					[
+						"HEX FocusCamera",
+						"0",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				93538,
+				[
+					[
+						"HEX FocusCamera",
+						"1",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				94769,
+				[
+					[
+						"HEX FocusCamera",
+						"0",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"HEX FocusCamera",
+						"1",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				96307.615,
+				[
+					[
+						"HEX FocusCamera",
+						"0",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				96615.308,
+				[
+					[
+						"HEX FocusCamera",
+						"1",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				96923,
+				[
+					[
+						"HEX FocusCamera",
+						"0",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				98462,
+				[
+					[
+						"HEX FocusCamera",
+						"1",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				103385,
+				[
+					[
+						"HEX FocusCamera",
+						"0",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				108308,
+				[
+					[
+						"HEX FocusCamera",
+						"1",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				113231,
+				[
+					[
+						"HEX FocusCamera",
+						"0",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				118154,
+				[
+					[
+						"HEX FocusCamera",
+						"1",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				119385,
+				[
+					[
+						"HEX FocusCamera",
+						"0",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				120615,
+				[
+					[
+						"HEX FocusCamera",
+						"1",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				121846,
+				[
+					[
+						"HEX FocusCamera",
+						"0",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				123077,
+				[
+					[
+						"HEX FocusCamera",
+						"1",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				124308,
+				[
+					[
+						"HEX FocusCamera",
+						"0",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				125538,
+				[
+					[
+						"HEX FocusCamera",
+						"1",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				126769,
+				[
+					[
+						"HEX FocusCamera",
+						"0",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"HEX FocusCamera",
+						"1",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				129231,
+				[
+					[
+						"HEX FocusCamera",
+						"0",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				130462,
+				[
+					[
+						"HEX FocusCamera",
+						"1",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				131692,
+				[
+					[
+						"HEX FocusCamera",
+						"0",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				132923,
+				[
+					[
+						"HEX FocusCamera",
+						"1",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				134154,
+				[
+					[
+						"HEX FocusCamera",
+						"0",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				135385,
+				[
+					[
+						"HEX FocusCamera",
+						"1",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				136615,
+				[
+					[
+						"HEX FocusCamera",
+						"0",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				137846,
+				[
+					[
+						"HEX FocusCamera",
+						"1",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				139077,
+				[
+					[
+						"HEX FocusCamera",
+						"0",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				140308,
+				[
+					[
+						"HEX FocusCamera",
+						"1",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				141538,
+				[
+					[
+						"HEX FocusCamera",
+						"0",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				142769,
+				[
+					[
+						"HEX FocusCamera",
+						"1",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"HEX FocusCamera",
+						"0",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				145231,
+				[
+					[
+						"HEX FocusCamera",
+						"1",
+						"4|CLASSIC||0|0"
+					]
+				]
+			],
+			[
+				146462,
+				[
+					[
+						"HEX FocusCamera",
+						"0",
+						"4|CLASSIC||0|0"
+					]
+				]
+			]
+		],
+		"notes": []
+	}
+}

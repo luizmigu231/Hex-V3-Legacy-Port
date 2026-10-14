@@ -1,0 +1,77 @@
+{
+  "animations": [
+    {
+      "offsets": [
+        0.0,
+        0.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "Coda Idle"
+    },
+    {
+      "offsets": [
+        119.0,
+        20.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "Coda left"
+    },
+    {
+      "offsets": [
+        -18.0,
+        -166.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "Coda down"
+    },
+    {
+      "offsets": [
+        93.0,
+        165.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "Coda up"
+    },
+    {
+      "offsets": [
+        -13.0,
+        -18.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "Coda right"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/hex/coda",
+  "position": [
+    0.0,
+    0.0
+  ],
+  "dance_every": 2,
+  "healthicon": "coda",
+  "flip_x": false,
+  "healthbar_colour": -12779777,
+  "camera_position": [
+    0,
+    0
+  ],
+  "sing_duration": 4.0,
+  "scale": 0.9,
+  "scalableOffsets": false,
+  "vslice_sustains": false
+}

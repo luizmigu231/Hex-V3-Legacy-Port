@@ -1,0 +1,99 @@
+{
+  "animations": [
+    {
+      "offsets": [
+        0.0,
+        0.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "Idle"
+    },
+    {
+      "offsets": [
+        2.0,
+        52.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "death1",
+      "indices": [],
+      "name": "Death1"
+    },
+    {
+      "offsets": [
+        244.0,
+        55.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "death2",
+      "indices": [],
+      "name": "Death2"
+    },
+    {
+      "offsets": [
+        16.0,
+        -33.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "Left"
+    },
+    {
+      "offsets": [
+        -16.0,
+        -27.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "Down"
+    },
+    {
+      "offsets": [
+        -70.0,
+        44.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "Up"
+    },
+    {
+      "offsets": [
+        -56.0,
+        -46.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "Right"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/hex/slasher-3",
+  "position": [
+    0.0,
+    0.0
+  ],
+  "dance_every": 2,
+  "healthicon": "slasher",
+  "flip_x": false,
+  "healthbar_colour": -12779777,
+  "camera_position": [
+    0,
+    0
+  ],
+  "sing_duration": 4.0,
+  "scale": 1.35,
+  "scalableOffsets": false,
+  "vslice_sustains": false
+}

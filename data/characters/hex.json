@@ -1,0 +1,135 @@
+{
+  "animations": [
+    {
+      "offsets": [
+        0.0,
+        0.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "Dad idle dance"
+    },
+    {
+      "offsets": [
+        0.0,
+        0.0
+      ],
+      "loop": true,
+      "fps": 24,
+      "anim": "idle-hold",
+      "indices": [
+        11,
+        12
+      ],
+      "name": "Dad idle dance"
+    },
+    {
+      "offsets": [
+        -10.0,
+        10.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "Dad Sing Note LEFT"
+    },
+    {
+      "offsets": [
+        -10.0,
+        10.0
+      ],
+      "loop": true,
+      "fps": 24,
+      "anim": "singLEFT-hold",
+      "indices": [],
+      "name": "Dad Sing Note LEFT"
+    },
+    {
+      "offsets": [
+        0.0,
+        -30.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "Dad Sing Note DOWN"
+    },
+    {
+      "offsets": [
+        0.0,
+        -30.0
+      ],
+      "loop": true,
+      "fps": 24,
+      "anim": "singDOWN-hold",
+      "indices": [],
+      "name": "Dad Sing Note DOWN"
+    },
+    {
+      "offsets": [
+        -6.0,
+        50.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "Dad Sing Note UP"
+    },
+    {
+      "offsets": [
+        -6.0,
+        50.0
+      ],
+      "loop": true,
+      "fps": 24,
+      "anim": "singUP-hold",
+      "indices": [],
+      "name": "Dad Sing Note UP"
+    },
+    {
+      "offsets": [
+        0.0,
+        27.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "Dad Sing Note RIGHT"
+    },
+    {
+      "offsets": [
+        0.0,
+        27.0
+      ],
+      "loop": true,
+      "fps": 24,
+      "anim": "singRIGHT-hold",
+      "indices": [],
+      "name": "Dad Sing Note RIGHT"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/hex/hex",
+  "position": [
+    0.0,
+    0.0
+  ],
+  "dance_every": 2,
+  "healthicon": "hex",
+  "flip_x": false,
+  "healthbar_colour": -12779777,
+  "camera_position": [
+    0,
+    0
+  ],
+  "sing_duration": 3.5,
+  "scale": 1.0,
+  "scalableOffsets": false,
+  "vslice_sustains": false
+}

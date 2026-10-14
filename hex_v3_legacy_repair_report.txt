@@ -1,0 +1,127 @@
+Hex V3 -> VS Impostor: Legacy Mobile repair report
+repair_script_version=2026-10-13-r12
+source=/data/data/com.termux/files/home/Hex-V3
+output=/storage/emulated/0/.FNFTools/HEX-PORT
+dry_run=False
+
+MUSIC PACKAGE: rename songs/ram-(new) -> songs/ram-(2026)
+MUSIC SOURCE: gameplay/songs/ram/Inst-new.ogg
+MUSIC INST: copy source Ram New instrumental -> songs/ram-(2026)/Inst.ogg as Inst.ogg
+RAM NAME REF data/weeks/week-x.json: display title -> Ram (2026); week/path key -> ram-(2026)
+RAM NAME REF songs/ram-(2026)/data/easy.json: display title -> Ram (2026); week/path key -> ram-(2026)
+RAM NAME REF songs/ram-(2026)/data/hard.json: display title -> Ram (2026); week/path key -> ram-(2026)
+RAM NAME REF songs/ram-(2026)/data/normal.json: display title -> Ram (2026); week/path key -> ram-(2026)
+MUSIC NOTE: Ram (2026) instrumental repaired from source Inst-new; package folder is ram-(2026), week/path references use ram-(2026), and normal Ram audio remains separate.
+RAM WEEK TITLE: data/weeks/week-x.json -> Ram (2026) (1 field(s))
+RAM CHART TITLE: no bare Ram/New/2026 title field needed targeted correction (text replacements still applied where matching).
+Source chart candidates discovered: 31
+SOURCE CANDIDATE: gameplay/songs/bit/bit-chart-erect.json
+SOURCE CANDIDATE: gameplay/songs/bit/bit-chart.json
+SOURCE CANDIDATE: gameplay/songs/bombs-n-combs/bombs-n-combs-chart.json
+SOURCE CANDIDATE: gameplay/songs/cooling/cooling-chart-new.json
+SOURCE CANDIDATE: gameplay/songs/cooling/cooling-chart.json
+SOURCE CANDIDATE: gameplay/songs/detected/detected-chart-new.json
+SOURCE CANDIDATE: gameplay/songs/detected/detected-chart.json
+SOURCE CANDIDATE: gameplay/songs/dunk/dunk-chart-new.json
+SOURCE CANDIDATE: gameplay/songs/dunk/dunk-chart.json
+SOURCE CANDIDATE: gameplay/songs/encore/encore-chart-new.json
+SOURCE CANDIDATE: gameplay/songs/encore/encore-chart.json
+SOURCE CANDIDATE: gameplay/songs/eye2eye/eye2eye-chart.json
+SOURCE CANDIDATE: gameplay/songs/glitcher-remix/glitcher-remix-chart.json
+SOURCE CANDIDATE: gameplay/songs/glitcher/glitcher-chart-new.json
+SOURCE CANDIDATE: gameplay/songs/glitcher/glitcher-chart.json
+SOURCE CANDIDATE: gameplay/songs/headbasher/headbasher-chart.json
+SOURCE CANDIDATE: gameplay/songs/hello-world/hello-world-chart-new.json
+SOURCE CANDIDATE: gameplay/songs/hello-world/hello-world-chart.json
+SOURCE CANDIDATE: gameplay/songs/hexcript/hexcript-chart.json
+SOURCE CANDIDATE: gameplay/songs/java/java-chart-new.json
+SOURCE CANDIDATE: gameplay/songs/java/java-chart.json
+SOURCE CANDIDATE: gameplay/songs/jumpin/jumpin-chart.json
+SOURCE CANDIDATE: gameplay/songs/lan/lan-chart.json
+SOURCE CANDIDATE: gameplay/songs/lcd/lcd-chart-new.json
+SOURCE CANDIDATE: gameplay/songs/lcd/lcd-chart.json
+SOURCE CANDIDATE: gameplay/songs/ram/ram-chart-new.json
+SOURCE CANDIDATE: gameplay/songs/ram/ram-chart.json
+SOURCE CANDIDATE: gameplay/songs/rightpace/rightpace-chart.json
+SOURCE CANDIDATE: gameplay/songs/tangerine/tangerine-chart.json
+SOURCE CANDIDATE: gameplay/songs/thatretrosong/thatretrosong-chart.json
+SOURCE CANDIDATE: concept-or-unused/thatretrosong-erect/ludacris/gameplay/songs/that-ludacris-song/that-ludacris-song-chart.json
+CHART b.i.t.: 32 unique events; removed 0 negative-lane event notes; source=gameplay/songs/bit/bit-chart.json
+CHART b.i.t.-(erect): 44 unique events; removed 0 negative-lane event notes; source=gameplay/songs/bit/bit-chart-erect.json
+CHART bombs-n'-combs: no recognized events found; no files changed. source=gameplay/songs/bombs-n-combs/bombs-n-combs-chart.json
+CHART cooling: 50 unique events; removed 0 negative-lane event notes; source=gameplay/songs/cooling/cooling-chart.json
+CHART cooling-(new): 50 unique events; removed 0 negative-lane event notes; source=gameplay/songs/cooling/cooling-chart-new.json
+CHART detected: 67 unique events; removed 0 negative-lane event notes; source=gameplay/songs/detected/detected-chart.json
+CHART detected-(new): 67 unique events; removed 0 negative-lane event notes; source=gameplay/songs/detected/detected-chart-new.json
+CHART dunk: 38 unique events; removed 0 negative-lane event notes; source=gameplay/songs/dunk/dunk-chart.json
+CHART dunk-(2026): 36 unique events; removed 0 negative-lane event notes; source=gameplay/songs/dunk/dunk-chart-new.json
+CHART encore: 55 unique events; removed 0 negative-lane event notes; source=gameplay/songs/encore/encore-chart.json
+CHART encore-(2026): 55 unique events; removed 0 negative-lane event notes; source=gameplay/songs/encore/encore-chart-new.json
+CHART eye2eye: no recognized events found; no files changed. source=gameplay/songs/eye2eye/eye2eye-chart.json
+CHART glitcher: 51 unique events; removed 0 negative-lane event notes; source=gameplay/songs/glitcher/glitcher-chart.json
+CHART glitcher-(2026): 51 unique events; removed 0 negative-lane event notes; source=gameplay/songs/glitcher/glitcher-chart-new.json
+CHART glitcher-(remix): 61 unique events; removed 0 negative-lane event notes; source=gameplay/songs/glitcher-remix/glitcher-remix-chart.json
+CHART headbasher: 12 unique events; removed 0 negative-lane event notes; source=gameplay/songs/headbasher/headbasher-chart.json
+CHART hello-world: 32 unique events; removed 0 negative-lane event notes; source=gameplay/songs/hello-world/hello-world-chart.json
+CHART hello-world-(2026): 32 unique events; removed 0 negative-lane event notes; source=gameplay/songs/hello-world/hello-world-chart-new.json
+CHART hexcript: 21 unique events; removed 0 negative-lane event notes; source=gameplay/songs/hexcript/hexcript-chart.json
+CHART java: 46 unique events; removed 0 negative-lane event notes; source=gameplay/songs/java/java-chart.json
+CHART java-(2026): 46 unique events; removed 0 negative-lane event notes; source=gameplay/songs/java/java-chart-new.json
+CHART jumpin': no recognized events found; no files changed. source=gameplay/songs/jumpin/jumpin-chart.json
+CHART lan: 36 unique events; removed 0 negative-lane event notes; source=gameplay/songs/lan/lan-chart.json
+CHART lcd: 31 unique events; removed 0 negative-lane event notes; source=gameplay/songs/lcd/lcd-chart.json
+CHART lcd-(2026): 31 unique events; removed 0 negative-lane event notes; source=gameplay/songs/lcd/lcd-chart-new.json
+CHART ram: 32 unique events; removed 0 negative-lane event notes; source=gameplay/songs/ram/ram-chart.json
+CHART ram-(2026): 32 unique events; removed 0 negative-lane event notes; source=gameplay/songs/ram/ram-chart-new.json
+CHART right-pace: 1 unique events; removed 0 negative-lane event notes; source=gameplay/songs/rightpace/rightpace-chart.json
+CHART tangerine: 71 unique events; removed 0 negative-lane event notes; source=gameplay/songs/tangerine/tangerine-chart.json
+CHART that-retro-song: 58 unique events; removed 0 negative-lane event notes; source=gameplay/songs/thatretrosong/thatretrosong-chart.json
+STAGE HScript stages/basketCourt.hx: source Hex zIndex values preserved
+STAGE HScript stages/bombsncombs.hx: source Hex zIndex values preserved
+STAGE HScript stages/headbasher.hx: source Hex zIndex values preserved
+STAGE HScript stages/iris_void.hx: normalized/inserted 2 static zIndex assignments
+STAGE HScript stages/lan.hx: source Hex zIndex values preserved
+STAGE HScript stages/retro.hx: source Hex zIndex values preserved
+STAGE HScript stages/rightpace.hx: source Hex zIndex values preserved
+STAGE HScript stages/streetside.hx: source Hex zIndex values preserved
+STAGE HScript stages/train-erect.hx: source Hex zIndex values preserved
+STAGE HScript stages/train.hx: source Hex zIndex values preserved
+STAGE HScript stages/windows.hx: source Hex zIndex values preserved
+STAGE HScript stages/xstage.hx: source Hex zIndex values preserved
+STAGE HScript stages/xstage_glitcher.hx: source Hex zIndex values preserved
+STAGE HScript stages/xstage_glitcher_new.hx: source Hex zIndex values preserved
+STAGE HScript stages/xstage_new.hx: source Hex zIndex values preserved
+STAGE HScript stages/xstage_night.hx: source Hex zIndex values preserved
+STAGE HScript stages/xstage_night_new.hx: source Hex zIndex values preserved
+STAGE HScript stages/xstage_sunset.hx: source Hex zIndex values preserved
+STAGE HScript stages/xstage_sunset_new.hx: source Hex zIndex values preserved
+STAGE HScript stages/xwstage.hx: source Hex zIndex values preserved
+STAGE HScript stages/xwstage_detected.hx: source Hex zIndex values preserved
+STAGE HScript stages/xwstage_detected_new.hx: source Hex zIndex values preserved
+STAGE HScript stages/xwstage_detected_rmx.hx: source Hex zIndex values preserved
+STAGE HScript stages/xwstage_new.hx: source Hex zIndex values preserved
+STAGE HScript stages/xwstagedef.hx: source Hex zIndex values preserved
+STAGE HScript stages/xwstagedef_new.hx: source Hex zIndex values preserved
+STAGE HScript stages/xwstagelcd.hx: source Hex zIndex values preserved
+STAGE HScript stages/xwstagelcd_new.hx: source Hex zIndex values preserved
+
+Source chart matches: 30
+Chart folders repaired: 27
+Unique events written/retained: 1138
+Stage JSON files modified: 0
+stageObjects zIndex values rebalanced: 0
+HScript zIndex assignments normalized/inserted: 2
+Ram (2026) packages renamed: 1
+Ram (2026) instrumentals repaired: 1
+Files with Ram (2026) references updated: 4
+Ram (2026) chart-title files updated: 0
+Ram (2026) week-title files updated: 1
+
+NOTE: source matching normalizes punctuation and matches chart filename variants (for example bit-chart-erect -> b.i.t.-(erect)); new/2026 aliases are equivalent only as a lower-priority variant match. Ambiguous ties are skipped.
+NOTE: SOURCE CANDIDATE lines list the actual files discovered under --source. For unmatched charts, related candidates are diagnostic only and are never imported by fuzzy name similarity.
+NOTE: Known Hex {t,e,v} events are converted to Legacy-compatible event triplets handled by HexModchartRuntime; unknown Hex event types are skipped and recorded in PORT-REPORT.json rather than dispatched with invalid parameters.
+NOTE: Ram (2026) audio repair copies source Inst-new.ogg into the separate ram-(2026) package as Inst.ogg; normal Ram audio is kept separate.
+NOTE: display text uses exactly 'Ram (2026)' and the internal package/week key is exactly 'ram-(2026)'. Week references ram-(new), ram-new, ram-2026, or ram-(2026) are normalized to ram-(2026).
+NOTE: foreground/background classification uses object names/assets. Review unusual names; no script can infer the intended layering of every custom sprite automatically.
+NOTE: preserving an event in events.json does not implement a Hex-only mechanic. Events unsupported by Legacy still need an HScript mechanic/event handler.
+NOTE: changes were applied. Original files were backed up unless --no-backups was used.

@@ -1,0 +1,127 @@
+{
+	"song": {
+		"events": [
+			[
+				153600,
+				[
+					[
+						"HEX SetCameraBop",
+						"1.115",
+						"0|1"
+					]
+				]
+			],
+			[
+				163200,
+				[
+					[
+						"HEX ZoomCamera",
+						"1.1",
+						"4|cube|In|stage|0|0"
+					]
+				]
+			],
+			[
+				164400,
+				[
+					[
+						"HEX ZoomCamera",
+						"0.95",
+						"4|cube|In|stage|0|0"
+					]
+				]
+			],
+			[
+				165615.736,
+				[
+					[
+						"HEX ZoomCamera",
+						"1.1",
+						"4|cube|In|stage|0|0"
+					]
+				]
+			],
+			[
+				166815.736,
+				[
+					[
+						"HEX ZoomCamera",
+						"0.95",
+						"4|cube|In|stage|0|0"
+					]
+				]
+			],
+			[
+				168005.113,
+				[
+					[
+						"HEX ZoomCamera",
+						"1.15",
+						"4|cube|In|stage|0|0"
+					]
+				]
+			],
+			[
+				168005.114,
+				[
+					[
+						"HEX ZoomCamera",
+						"1.15",
+						"4|cube|In|stage|0|0"
+					]
+				]
+			],
+			[
+				169200,
+				[
+					[
+						"HEX ZoomCamera",
+						"1.1",
+						"4|cube|In|stage|0|0"
+					]
+				]
+			],
+			[
+				170325,
+				[
+					[
+						"HEX SetCameraBop",
+						"0",
+						"0|4"
+					]
+				]
+			],
+			[
+				170400,
+				[
+					[
+						"HEX ZoomCamera",
+						"1",
+						"32|cube|In|stage|0|0"
+					]
+				]
+			],
+			[
+				172725,
+				[
+					[
+						"HEX SetCameraBop",
+						"0",
+						"0|4"
+					]
+				]
+			],
+			[
+				172800,
+				[
+					[
+						"HEX ZoomCamera",
+						"0.95",
+						"92|sine|Out|stage|0|0"
+					]
+				]
+			]
+		],
+		"notes": []
+	}
+}

@@ -1,0 +1,37 @@
+{
+  "directory": "",
+  "defaultZoom": 0.9,
+  "isPixelStage": false,
+  "boyfriend": [
+    989.5,
+    885.0
+  ],
+  "opponent": [
+    335.0,
+    885.0
+  ],
+  "girlfriend": [
+    751.5,
+    787.0
+  ],
+  "camera_boyfriend": [
+    -100.0,
+    -100.0
+  ],
+  "camera_opponent": [
+    150.0,
+    -100.0
+  ],
+  "camera_girlfriend": [
+    0.0,
+    0.0
+  ],
+  "bfZIndex": 300,
+  "dadZIndex": 200,
+  "gfZIndex": 100,
+  "hide_girlfriend": false,
+  "flags": {
+    "hexV3": true,
+    "xstage_glitcher_new": true
+  }
+}

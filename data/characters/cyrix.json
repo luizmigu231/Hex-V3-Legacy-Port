@@ -1,0 +1,77 @@
+{
+  "animations": [
+    {
+      "offsets": [
+        -1.0,
+        0.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "idle"
+    },
+    {
+      "offsets": [
+        29.0,
+        -132.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "left"
+    },
+    {
+      "offsets": [
+        -16.0,
+        -168.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "down"
+    },
+    {
+      "offsets": [
+        -18.0,
+        -69.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "up"
+    },
+    {
+      "offsets": [
+        -18.0,
+        -142.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "right"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/hex/cyrix",
+  "position": [
+    0.0,
+    0.0
+  ],
+  "dance_every": 1,
+  "healthicon": "cyrix",
+  "flip_x": false,
+  "healthbar_colour": -12779777,
+  "camera_position": [
+    0,
+    0
+  ],
+  "sing_duration": 4.0,
+  "scale": 0.7,
+  "scalableOffsets": false,
+  "vslice_sustains": false
+}

@@ -1,0 +1,17 @@
+{
+	"song": {
+		"events": [
+			[
+				201764.706,
+				[
+					[
+						"HEX SwitchCharacter",
+						"0",
+						"hex-rightpace-happy|0|30|false|0"
+					]
+				]
+			]
+		],
+		"notes": []
+	}
+}

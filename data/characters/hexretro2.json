@@ -1,0 +1,121 @@
+{
+  "animations": [
+    {
+      "offsets": [
+        -1.0,
+        0.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "hex idle alt"
+    },
+    {
+      "offsets": [
+        18.0,
+        9.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "hex left alt"
+    },
+    {
+      "offsets": [
+        -6.0,
+        -108.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "hex down alt"
+    },
+    {
+      "offsets": [
+        2.0,
+        8.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "hex up alt"
+    },
+    {
+      "offsets": [
+        -59.0,
+        9.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "hex right alt"
+    },
+    {
+      "offsets": [
+        22.0,
+        17.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFTmiss",
+      "indices": [],
+      "name": "left alt miss"
+    },
+    {
+      "offsets": [
+        -8.0,
+        -95.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWNmiss",
+      "indices": [],
+      "name": "down alt miss"
+    },
+    {
+      "offsets": [
+        0.0,
+        9.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUPmiss",
+      "indices": [],
+      "name": "up alt miss"
+    },
+    {
+      "offsets": [
+        -59.0,
+        8.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHTmiss",
+      "indices": [],
+      "name": "right alt miss"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/hex/hexretro2",
+  "position": [
+    0.0,
+    0.0
+  ],
+  "dance_every": 1,
+  "healthicon": "hex",
+  "flip_x": true,
+  "healthbar_colour": -12779777,
+  "camera_position": [
+    0,
+    0
+  ],
+  "sing_duration": 4.0,
+  "scale": 1.0,
+  "scalableOffsets": false,
+  "vslice_sustains": false
+}

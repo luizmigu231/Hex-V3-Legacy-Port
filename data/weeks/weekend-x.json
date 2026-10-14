@@ -1,0 +1,123 @@
+{
+  "songs": [
+    [
+      "Cooling",
+      "hex",
+      [
+        58,
+        238,
+        255
+      ],
+      "cooling",
+      "YingYang48",
+      []
+    ],
+    [
+      "Cooling (New)",
+      "hex",
+      [
+        58,
+        238,
+        255
+      ],
+      "cooling-(new)",
+      "YingYang48",
+      []
+    ],
+    [
+      "Detected",
+      "wkhex-detected",
+      [
+        150,
+        200,
+        255
+      ],
+      "detected",
+      "YingYang48",
+      []
+    ],
+    [
+      "Detected (New)",
+      "wkhex-detected",
+      [
+        150,
+        200,
+        255
+      ],
+      "detected-(new)",
+      "YingYang48",
+      []
+    ],
+    [
+      "Java",
+      "hex",
+      [
+        60,
+        254,
+        255
+      ],
+      "java",
+      "YingYang48",
+      []
+    ],
+    [
+      "Java (2026)",
+      "hex",
+      [
+        60,
+        254,
+        255
+      ],
+      "java-(2026)",
+      "YingYang48",
+      []
+    ],
+    [
+      "LCD",
+      "hex",
+      [
+        60,
+        254,
+        255
+      ],
+      "lcd",
+      "YingYang48",
+      []
+    ],
+    [
+      "LCD (2026)",
+      "hex",
+      [
+        60,
+        254,
+        255
+      ],
+      "lcd-(2026)",
+      "YingYang48",
+      []
+    ],
+    [
+      "Glitcher (Remix)",
+      "wkhex-detected",
+      [
+        60,
+        254,
+        255
+      ],
+      "glitcher-(remix)",
+      "YingYang48",
+      []
+    ]
+  ],
+  "section": "weekend-x",
+  "storyName": "Weekend X",
+  "weekBefore": "week 0",
+  "weekName": "Weekend X Freeplay",
+  "startUnlocked": true,
+  "hideStoryMode": true,
+  "hideFreeplay": false,
+  "node": {
+    "parent": "root",
+    "direction": "east"
+  }
+}

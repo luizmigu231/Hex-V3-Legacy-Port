@@ -1,0 +1,99 @@
+{
+  "animations": [
+    {
+      "offsets": [
+        0.0,
+        0.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "Idle"
+    },
+    {
+      "offsets": [
+        110.0,
+        70.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "crashout",
+      "indices": [],
+      "name": "Crashout"
+    },
+    {
+      "offsets": [
+        270.0,
+        125.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "hit",
+      "indices": [],
+      "name": "Hit"
+    },
+    {
+      "offsets": [
+        78.0,
+        1.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "Left"
+    },
+    {
+      "offsets": [
+        -30.0,
+        -120.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "Down"
+    },
+    {
+      "offsets": [
+        -13.0,
+        -20.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "Up"
+    },
+    {
+      "offsets": [
+        25.0,
+        -21.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "Right"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/hex/slasher-2",
+  "position": [
+    0.0,
+    0.0
+  ],
+  "dance_every": 2,
+  "healthicon": "slasher",
+  "flip_x": false,
+  "healthbar_colour": -12779777,
+  "camera_position": [
+    0,
+    0
+  ],
+  "sing_duration": 4.0,
+  "scale": 1.35,
+  "scalableOffsets": false,
+  "vslice_sustains": false
+}

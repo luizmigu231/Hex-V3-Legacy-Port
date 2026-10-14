@@ -1,0 +1,4084 @@
+{
+  "sourceRoot": "/data/data/com.termux/files/home/Hex-V3",
+  "sourceLayout": "cloned V-Slice repository root",
+  "outputRoot": "/storage/emulated/0/.FNFTools/HEX-PORT",
+  "songsBuilt": [
+    {
+      "title": "B.I.T. (Erect)",
+      "folder": "b.i.t.-(erect)",
+      "source": "bit",
+      "stage": "train-erect"
+    },
+    {
+      "title": "B.I.T.",
+      "folder": "b.i.t.",
+      "source": "bit",
+      "stage": "train"
+    },
+    {
+      "title": "Bombs N' Combs",
+      "folder": "bombs-n'-combs",
+      "source": "bombs-n-combs",
+      "stage": "bombsncombs"
+    },
+    {
+      "title": "Cooling (New)",
+      "folder": "cooling-(new)",
+      "source": "cooling",
+      "stage": "xwstage_new"
+    },
+    {
+      "title": "Cooling",
+      "folder": "cooling",
+      "source": "cooling",
+      "stage": "xwstage"
+    },
+    {
+      "title": "Detected (New)",
+      "folder": "detected-(new)",
+      "source": "detected",
+      "stage": "xwstage_detected_new"
+    },
+    {
+      "title": "Detected",
+      "folder": "detected",
+      "source": "detected",
+      "stage": "xwstage_detected"
+    },
+    {
+      "title": "Dunk (2026)",
+      "folder": "dunk-(2026)",
+      "source": "dunk",
+      "stage": "xstage_new"
+    },
+    {
+      "title": "Dunk",
+      "folder": "dunk",
+      "source": "dunk",
+      "stage": "xstage"
+    },
+    {
+      "title": "Encore (2026)",
+      "folder": "encore-(2026)",
+      "source": "encore",
+      "stage": "xstage_new"
+    },
+    {
+      "title": "Encore",
+      "folder": "encore",
+      "source": "encore",
+      "stage": "xstage"
+    },
+    {
+      "title": "Eye2Eye",
+      "folder": "eye2eye",
+      "source": "eye2eye",
+      "stage": "iris_void"
+    },
+    {
+      "title": "Glitcher (Remix)",
+      "folder": "glitcher-(remix)",
+      "source": "glitcher-remix",
+      "stage": "xwstage_detected_rmx"
+    },
+    {
+      "title": "Glitcher (2026)",
+      "folder": "glitcher-(2026)",
+      "source": "glitcher",
+      "stage": "xstage_glitcher_new"
+    },
+    {
+      "title": "Glitcher",
+      "folder": "glitcher",
+      "source": "glitcher",
+      "stage": "xstage_glitcher"
+    },
+    {
+      "title": "Headbasher",
+      "folder": "headbasher",
+      "source": "headbasher",
+      "stage": "headbasher"
+    },
+    {
+      "title": "Hello World (2026)",
+      "folder": "hello-world-(2026)",
+      "source": "hello-world",
+      "stage": "xstage_night_new"
+    },
+    {
+      "title": "Hello World",
+      "folder": "hello-world",
+      "source": "hello-world",
+      "stage": "xstage_night"
+    },
+    {
+      "title": "HEXcript",
+      "folder": "hexcript",
+      "source": "hexcript",
+      "stage": "windows"
+    },
+    {
+      "title": "Java (2026)",
+      "folder": "java-(2026)",
+      "source": "java",
+      "stage": "xwstagedef_new"
+    },
+    {
+      "title": "Java",
+      "folder": "java",
+      "source": "java",
+      "stage": "xwstagedef"
+    },
+    {
+      "title": "Jumpin'",
+      "folder": "jumpin'",
+      "source": "jumpin",
+      "stage": "basketCourt"
+    },
+    {
+      "title": "LAN",
+      "folder": "lan",
+      "source": "lan",
+      "stage": "lan"
+    },
+    {
+      "title": "LCD (2026)",
+      "folder": "lcd-(2026)",
+      "source": "lcd",
+      "stage": "xwstagelcd_new"
+    },
+    {
+      "title": "LCD",
+      "folder": "lcd",
+      "source": "lcd",
+      "stage": "xwstagelcd"
+    },
+    {
+      "title": "Ram (2026)",
+      "folder": "ram-(2026)",
+      "source": "ram",
+      "stage": "xstage_sunset_new"
+    },
+    {
+      "title": "RAM",
+      "folder": "ram",
+      "source": "ram",
+      "stage": "xstage_sunset"
+    },
+    {
+      "title": "Right Pace",
+      "folder": "right-pace",
+      "source": "rightpace",
+      "stage": "rightpace"
+    },
+    {
+      "title": "Tangerine",
+      "folder": "tangerine",
+      "source": "tangerine",
+      "stage": "streetside"
+    },
+    {
+      "title": "That Retro Song",
+      "folder": "that-retro-song",
+      "source": "thatretrosong",
+      "stage": "retro"
+    }
+  ],
+  "missingSongs": [],
+  "missingAudio": [],
+  "audioWarnings": [],
+  "chartWarnings": [],
+  "unsupportedChartEvents": [],
+  "unsupportedNoteKinds": [
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hex"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "mine_slasher"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Headbasher",
+      "kind": "hexAnd"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    },
+    {
+      "song": "Right Pace",
+      "kind": "mine_reg"
+    }
+  ],
+  "difficultyMappings": [
+    {
+      "song": "Right Pace",
+      "source": "technical",
+      "target": "technical.json (bonus; not guaranteed selectable in Freeplay)"
+    }
+  ],
+  "stagesBuilt": [
+    "basketCourt",
+    "bombsncombs",
+    "headbasher",
+    "iris_void",
+    "lan",
+    "retro",
+    "rightpace",
+    "streetside",
+    "train",
+    "train-erect",
+    "windows",
+    "xstage",
+    "xstage_glitcher",
+    "xstage_glitcher_new",
+    "xstage_new",
+    "xstage_night",
+    "xstage_night_new",
+    "xstage_sunset",
+    "xstage_sunset_new",
+    "xwstage",
+    "xwstage_detected",
+    "xwstage_detected_new",
+    "xwstage_detected_rmx",
+    "xwstage_new",
+    "xwstagedef",
+    "xwstagedef_new",
+    "xwstagelcd",
+    "xwstagelcd_new"
+  ],
+  "skippedStages": [],
+  "stageWarnings": [],
+  "unsupportedCharacters": [],
+  "missingCharacters": [],
+  "fallbackCharacters": [],
+  "portraitWarnings": [],
+  "generatedIcons": [
+    "bf",
+    "cyrix-static"
+  ],
+  "lookAssetsCopied": 40,
+  "omittedOriginalSongs": [],
+  "songsMissingCharts": [],
+  "songsMissingInstrumental": [],
+  "songDiscoveryWarnings": [],
+  "chartsValidated": [
+    {
+      "song": "B.I.T. (Erect)",
+      "difficulty": "easy",
+      "path": "songs/b.i.t.-(erect)/data/easy.json"
+    },
+    {
+      "song": "B.I.T. (Erect)",
+      "difficulty": "normal",
+      "path": "songs/b.i.t.-(erect)/data/normal.json"
+    },
+    {
+      "song": "B.I.T. (Erect)",
+      "difficulty": "hard",
+      "path": "songs/b.i.t.-(erect)/data/hard.json"
+    },
+    {
+      "song": "B.I.T.",
+      "difficulty": "easy",
+      "path": "songs/b.i.t./data/easy.json"
+    },
+    {
+      "song": "B.I.T.",
+      "difficulty": "normal",
+      "path": "songs/b.i.t./data/normal.json"
+    },
+    {
+      "song": "B.I.T.",
+      "difficulty": "hard",
+      "path": "songs/b.i.t./data/hard.json"
+    },
+    {
+      "song": "Bombs N' Combs",
+      "difficulty": "easy",
+      "path": "songs/bombs-n'-combs/data/easy.json"
+    },
+    {
+      "song": "Bombs N' Combs",
+      "difficulty": "normal",
+      "path": "songs/bombs-n'-combs/data/normal.json"
+    },
+    {
+      "song": "Bombs N' Combs",
+      "difficulty": "hard",
+      "path": "songs/bombs-n'-combs/data/hard.json"
+    },
+    {
+      "song": "Cooling (New)",
+      "difficulty": "easy",
+      "path": "songs/cooling-(new)/data/easy.json"
+    },
+    {
+      "song": "Cooling (New)",
+      "difficulty": "normal",
+      "path": "songs/cooling-(new)/data/normal.json"
+    },
+    {
+      "song": "Cooling (New)",
+      "difficulty": "hard",
+      "path": "songs/cooling-(new)/data/hard.json"
+    },
+    {
+      "song": "Cooling",
+      "difficulty": "easy",
+      "path": "songs/cooling/data/easy.json"
+    },
+    {
+      "song": "Cooling",
+      "difficulty": "normal",
+      "path": "songs/cooling/data/normal.json"
+    },
+    {
+      "song": "Cooling",
+      "difficulty": "hard",
+      "path": "songs/cooling/data/hard.json"
+    },
+    {
+      "song": "Detected (New)",
+      "difficulty": "easy",
+      "path": "songs/detected-(new)/data/easy.json"
+    },
+    {
+      "song": "Detected (New)",
+      "difficulty": "normal",
+      "path": "songs/detected-(new)/data/normal.json"
+    },
+    {
+      "song": "Detected (New)",
+      "difficulty": "hard",
+      "path": "songs/detected-(new)/data/hard.json"
+    },
+    {
+      "song": "Detected",
+      "difficulty": "easy",
+      "path": "songs/detected/data/easy.json"
+    },
+    {
+      "song": "Detected",
+      "difficulty": "normal",
+      "path": "songs/detected/data/normal.json"
+    },
+    {
+      "song": "Detected",
+      "difficulty": "hard",
+      "path": "songs/detected/data/hard.json"
+    },
+    {
+      "song": "Dunk (2026)",
+      "difficulty": "easy",
+      "path": "songs/dunk-(2026)/data/easy.json"
+    },
+    {
+      "song": "Dunk (2026)",
+      "difficulty": "normal",
+      "path": "songs/dunk-(2026)/data/normal.json"
+    },
+    {
+      "song": "Dunk (2026)",
+      "difficulty": "hard",
+      "path": "songs/dunk-(2026)/data/hard.json"
+    },
+    {
+      "song": "Dunk",
+      "difficulty": "easy",
+      "path": "songs/dunk/data/easy.json"
+    },
+    {
+      "song": "Dunk",
+      "difficulty": "normal",
+      "path": "songs/dunk/data/normal.json"
+    },
+    {
+      "song": "Dunk",
+      "difficulty": "hard",
+      "path": "songs/dunk/data/hard.json"
+    },
+    {
+      "song": "Encore (2026)",
+      "difficulty": "easy",
+      "path": "songs/encore-(2026)/data/easy.json"
+    },
+    {
+      "song": "Encore (2026)",
+      "difficulty": "normal",
+      "path": "songs/encore-(2026)/data/normal.json"
+    },
+    {
+      "song": "Encore (2026)",
+      "difficulty": "hard",
+      "path": "songs/encore-(2026)/data/hard.json"
+    },
+    {
+      "song": "Encore",
+      "difficulty": "easy",
+      "path": "songs/encore/data/easy.json"
+    },
+    {
+      "song": "Encore",
+      "difficulty": "normal",
+      "path": "songs/encore/data/normal.json"
+    },
+    {
+      "song": "Encore",
+      "difficulty": "hard",
+      "path": "songs/encore/data/hard.json"
+    },
+    {
+      "song": "Eye2Eye",
+      "difficulty": "easy",
+      "path": "songs/eye2eye/data/easy.json"
+    },
+    {
+      "song": "Eye2Eye",
+      "difficulty": "normal",
+      "path": "songs/eye2eye/data/normal.json"
+    },
+    {
+      "song": "Eye2Eye",
+      "difficulty": "hard",
+      "path": "songs/eye2eye/data/hard.json"
+    },
+    {
+      "song": "Glitcher (Remix)",
+      "difficulty": "easy",
+      "path": "songs/glitcher-(remix)/data/easy.json"
+    },
+    {
+      "song": "Glitcher (Remix)",
+      "difficulty": "normal",
+      "path": "songs/glitcher-(remix)/data/normal.json"
+    },
+    {
+      "song": "Glitcher (Remix)",
+      "difficulty": "hard",
+      "path": "songs/glitcher-(remix)/data/hard.json"
+    },
+    {
+      "song": "Glitcher (2026)",
+      "difficulty": "easy",
+      "path": "songs/glitcher-(2026)/data/easy.json"
+    },
+    {
+      "song": "Glitcher (2026)",
+      "difficulty": "normal",
+      "path": "songs/glitcher-(2026)/data/normal.json"
+    },
+    {
+      "song": "Glitcher (2026)",
+      "difficulty": "hard",
+      "path": "songs/glitcher-(2026)/data/hard.json"
+    },
+    {
+      "song": "Glitcher",
+      "difficulty": "easy",
+      "path": "songs/glitcher/data/easy.json"
+    },
+    {
+      "song": "Glitcher",
+      "difficulty": "normal",
+      "path": "songs/glitcher/data/normal.json"
+    },
+    {
+      "song": "Glitcher",
+      "difficulty": "hard",
+      "path": "songs/glitcher/data/hard.json"
+    },
+    {
+      "song": "Headbasher",
+      "difficulty": "easy",
+      "path": "songs/headbasher/data/easy.json"
+    },
+    {
+      "song": "Headbasher",
+      "difficulty": "normal",
+      "path": "songs/headbasher/data/normal.json"
+    },
+    {
+      "song": "Headbasher",
+      "difficulty": "hard",
+      "path": "songs/headbasher/data/hard.json"
+    },
+    {
+      "song": "Hello World (2026)",
+      "difficulty": "easy",
+      "path": "songs/hello-world-(2026)/data/easy.json"
+    },
+    {
+      "song": "Hello World (2026)",
+      "difficulty": "normal",
+      "path": "songs/hello-world-(2026)/data/normal.json"
+    },
+    {
+      "song": "Hello World (2026)",
+      "difficulty": "hard",
+      "path": "songs/hello-world-(2026)/data/hard.json"
+    },
+    {
+      "song": "Hello World",
+      "difficulty": "easy",
+      "path": "songs/hello-world/data/easy.json"
+    },
+    {
+      "song": "Hello World",
+      "difficulty": "normal",
+      "path": "songs/hello-world/data/normal.json"
+    },
+    {
+      "song": "Hello World",
+      "difficulty": "hard",
+      "path": "songs/hello-world/data/hard.json"
+    },
+    {
+      "song": "HEXcript",
+      "difficulty": "easy",
+      "path": "songs/hexcript/data/easy.json"
+    },
+    {
+      "song": "HEXcript",
+      "difficulty": "normal",
+      "path": "songs/hexcript/data/normal.json"
+    },
+    {
+      "song": "HEXcript",
+      "difficulty": "hard",
+      "path": "songs/hexcript/data/hard.json"
+    },
+    {
+      "song": "Java (2026)",
+      "difficulty": "easy",
+      "path": "songs/java-(2026)/data/easy.json"
+    },
+    {
+      "song": "Java (2026)",
+      "difficulty": "normal",
+      "path": "songs/java-(2026)/data/normal.json"
+    },
+    {
+      "song": "Java (2026)",
+      "difficulty": "hard",
+      "path": "songs/java-(2026)/data/hard.json"
+    },
+    {
+      "song": "Java",
+      "difficulty": "easy",
+      "path": "songs/java/data/easy.json"
+    },
+    {
+      "song": "Java",
+      "difficulty": "normal",
+      "path": "songs/java/data/normal.json"
+    },
+    {
+      "song": "Java",
+      "difficulty": "hard",
+      "path": "songs/java/data/hard.json"
+    },
+    {
+      "song": "Jumpin'",
+      "difficulty": "easy",
+      "path": "songs/jumpin'/data/easy.json"
+    },
+    {
+      "song": "Jumpin'",
+      "difficulty": "normal",
+      "path": "songs/jumpin'/data/normal.json"
+    },
+    {
+      "song": "Jumpin'",
+      "difficulty": "hard",
+      "path": "songs/jumpin'/data/hard.json"
+    },
+    {
+      "song": "LAN",
+      "difficulty": "easy",
+      "path": "songs/lan/data/easy.json"
+    },
+    {
+      "song": "LAN",
+      "difficulty": "normal",
+      "path": "songs/lan/data/normal.json"
+    },
+    {
+      "song": "LAN",
+      "difficulty": "hard",
+      "path": "songs/lan/data/hard.json"
+    },
+    {
+      "song": "LCD (2026)",
+      "difficulty": "easy",
+      "path": "songs/lcd-(2026)/data/easy.json"
+    },
+    {
+      "song": "LCD (2026)",
+      "difficulty": "normal",
+      "path": "songs/lcd-(2026)/data/normal.json"
+    },
+    {
+      "song": "LCD (2026)",
+      "difficulty": "hard",
+      "path": "songs/lcd-(2026)/data/hard.json"
+    },
+    {
+      "song": "LCD",
+      "difficulty": "easy",
+      "path": "songs/lcd/data/easy.json"
+    },
+    {
+      "song": "LCD",
+      "difficulty": "normal",
+      "path": "songs/lcd/data/normal.json"
+    },
+    {
+      "song": "LCD",
+      "difficulty": "hard",
+      "path": "songs/lcd/data/hard.json"
+    },
+    {
+      "song": "RAM (New)",
+      "difficulty": "easy",
+      "path": "songs/ram-(new)/data/easy.json"
+    },
+    {
+      "song": "RAM (New)",
+      "difficulty": "normal",
+      "path": "songs/ram-(new)/data/normal.json"
+    },
+    {
+      "song": "RAM (New)",
+      "difficulty": "hard",
+      "path": "songs/ram-(new)/data/hard.json"
+    },
+    {
+      "song": "RAM",
+      "difficulty": "easy",
+      "path": "songs/ram/data/easy.json"
+    },
+    {
+      "song": "RAM",
+      "difficulty": "normal",
+      "path": "songs/ram/data/normal.json"
+    },
+    {
+      "song": "RAM",
+      "difficulty": "hard",
+      "path": "songs/ram/data/hard.json"
+    },
+    {
+      "song": "Right Pace",
+      "difficulty": "easy",
+      "path": "songs/right-pace/data/easy.json"
+    },
+    {
+      "song": "Right Pace",
+      "difficulty": "normal",
+      "path": "songs/right-pace/data/normal.json"
+    },
+    {
+      "song": "Right Pace",
+      "difficulty": "hard",
+      "path": "songs/right-pace/data/hard.json"
+    },
+    {
+      "song": "Right Pace",
+      "difficulty": "technical",
+      "path": "songs/right-pace/data/technical.json"
+    },
+    {
+      "song": "Tangerine",
+      "difficulty": "easy",
+      "path": "songs/tangerine/data/easy.json"
+    },
+    {
+      "song": "Tangerine",
+      "difficulty": "normal",
+      "path": "songs/tangerine/data/normal.json"
+    },
+    {
+      "song": "Tangerine",
+      "difficulty": "hard",
+      "path": "songs/tangerine/data/hard.json"
+    },
+    {
+      "song": "That Retro Song",
+      "difficulty": "easy",
+      "path": "songs/that-retro-song/data/easy.json"
+    },
+    {
+      "song": "That Retro Song",
+      "difficulty": "normal",
+      "path": "songs/that-retro-song/data/normal.json"
+    },
+    {
+      "song": "That Retro Song",
+      "difficulty": "hard",
+      "path": "songs/that-retro-song/data/hard.json"
+    }
+  ],
+  "chartValidationErrors": [],
+  "hexUiAssetsCopied": [
+    "ui/hex/circle.png",
+    "ui/hex/hex_healthBar.png",
+    "ui/fonts/Arista.ttf"
+  ],
+  "hexShadersCopied": [
+    "better_invertColor.frag",
+    "characterLook.frag",
+    "characterRim.frag",
+    "eye_strips.frag",
+    "glitch.frag",
+    "palette_converter.frag",
+    "personaQuad.frag",
+    "pixel.frag",
+    "real_gaus_blur.frag",
+    "screen_glitch.frag",
+    "stage_ball.frag",
+    "sweep.frag",
+    "sweep_glitch.frag",
+    "swirl.frag",
+    "swirlAlpha.frag",
+    "swirlTrans.frag",
+    "tv_noise.frag",
+    "tv_noise_curved.frag"
+  ],
+  "skinPolicy": {
+    "enabledSongs": [
+      {
+        "title": "B.I.T. (Erect)",
+        "source": "bit"
+      },
+      {
+        "title": "B.I.T.",
+        "source": "bit"
+      },
+      {
+        "title": "Cooling (New)",
+        "source": "cooling"
+      },
+      {
+        "title": "Cooling",
+        "source": "cooling"
+      },
+      {
+        "title": "Detected (New)",
+        "source": "detected"
+      },
+      {
+        "title": "Detected",
+        "source": "detected"
+      },
+      {
+        "title": "Dunk (2026)",
+        "source": "dunk"
+      },
+      {
+        "title": "Dunk",
+        "source": "dunk"
+      },
+      {
+        "title": "Encore (2026)",
+        "source": "encore"
+      },
+      {
+        "title": "Encore",
+        "source": "encore"
+      },
+      {
+        "title": "Glitcher (Remix)",
+        "source": "glitcher-remix"
+      },
+      {
+        "title": "Glitcher (2026)",
+        "source": "glitcher"
+      },
+      {
+        "title": "Glitcher",
+        "source": "glitcher"
+      },
+      {
+        "title": "Headbasher",
+        "source": "headbasher"
+      },
+      {
+        "title": "Hello World (2026)",
+        "source": "hello-world"
+      },
+      {
+        "title": "Hello World",
+        "source": "hello-world"
+      },
+      {
+        "title": "HEXcript",
+        "source": "hexcript"
+      },
+      {
+        "title": "Java (2026)",
+        "source": "java"
+      },
+      {
+        "title": "Java",
+        "source": "java"
+      },
+      {
+        "title": "LAN",
+        "source": "lan"
+      },
+      {
+        "title": "LCD (2026)",
+        "source": "lcd"
+      },
+      {
+        "title": "LCD",
+        "source": "lcd"
+      },
+      {
+        "title": "RAM (New)",
+        "source": "ram"
+      },
+      {
+        "title": "RAM",
+        "source": "ram"
+      },
+      {
+        "title": "Tangerine",
+        "source": "tangerine"
+      }
+    ],
+    "disabledSongs": [
+      {
+        "title": "Bombs N' Combs",
+        "source": "bombs-n-combs"
+      },
+      {
+        "title": "Eye2Eye",
+        "source": "eye2eye"
+      },
+      {
+        "title": "Jumpin'",
+        "source": "jumpin"
+      },
+      {
+        "title": "Right Pace",
+        "source": "rightpace"
+      },
+      {
+        "title": "That Retro Song",
+        "source": "thatretrosong"
+      }
+    ],
+    "note": "Flags aplicáveis em Freeplay; Story Mode é bloqueado no PlayState nativo."
+  },
+  "modchartExport": {
+    "status": "ok",
+    "returnCode": 0,
+    "chartStats": {
+      "eye2eye": {
+        "skipped": "dedicated Eye2Eye song script already has its own timeline; omit --skip-eye2eye to export for analysis"
+      },
+      "detected": {
+        "cueRows": 1914,
+        "uniqueChannels": 52,
+        "approximatedEveryHooks": [
+          {
+            "hook": "sway",
+            "start": 32,
+            "span": 32,
+            "approximation": "sway"
+          },
+          {
+            "hook": "wrap",
+            "start": 64,
+            "span": 31,
+            "approximation": "wrap"
+          },
+          {
+            "hook": "step",
+            "start": 96,
+            "span": 64,
+            "approximation": "flipRow"
+          },
+          {
+            "hook": "sway",
+            "start": 256,
+            "span": 28,
+            "approximation": "sway"
+          },
+          {
+            "hook": "wrap",
+            "start": 288,
+            "span": 32,
+            "approximation": "wrap"
+          },
+          {
+            "hook": "step",
+            "start": 320,
+            "span": 64,
+            "approximation": "flipRow"
+          },
+          {
+            "hook": "camRock",
+            "start": 384,
+            "span": 32,
+            "approximation": "cam.rotZ"
+          },
+          {
+            "hook": "halo",
+            "start": 476,
+            "span": 12,
+            "approximation": "halo"
+          },
+          {
+            "hook": "wrap",
+            "start": 448,
+            "span": 28,
+            "approximation": "wrap"
+          },
+          {
+            "hook": "sway",
+            "start": 32,
+            "span": 32,
+            "approximation": "sway"
+          },
+          {
+            "hook": "wrap",
+            "start": 64,
+            "span": 31,
+            "approximation": "wrap"
+          },
+          {
+            "hook": "step",
+            "start": 96,
+            "span": 64,
+            "approximation": "flipRow"
+          },
+          {
+            "hook": "sway",
+            "start": 256,
+            "span": 28,
+            "approximation": "sway"
+          },
+          {
+            "hook": "wrap",
+            "start": 288,
+            "span": 32,
+            "approximation": "wrap"
+          },
+          {
+            "hook": "step",
+            "start": 320,
+            "span": 64,
+            "approximation": "flipRow"
+          },
+          {
+            "hook": "camRock",
+            "start": 384,
+            "span": 32,
+            "approximation": "cam.rotZ"
+          },
+          {
+            "hook": "wrap",
+            "start": 448,
+            "span": 28,
+            "approximation": "wrap"
+          },
+          {
+            "hook": "halo",
+            "start": 476,
+            "span": 12,
+            "approximation": "halo"
+          }
+        ]
+      },
+      "detected_normal": {
+        "cueRows": 1144,
+        "uniqueChannels": 42,
+        "approximatedEveryHooks": [
+          {
+            "hook": "sway",
+            "start": 32,
+            "span": 32,
+            "approximation": "sway"
+          },
+          {
+            "hook": "easyDrunk",
+            "start": 64,
+            "span": 28,
+            "approximation": "easydrunk"
+          },
+          {
+            "hook": "sway",
+            "start": 256,
+            "span": 28,
+            "approximation": "sway"
+          },
+          {
+            "hook": "step",
+            "start": 96,
+            "span": 64,
+            "approximation": "flipRow"
+          },
+          {
+            "hook": "easyDrunk",
+            "start": 288,
+            "span": 28,
+            "approximation": "easydrunk"
+          },
+          {
+            "hook": "step",
+            "start": 320,
+            "span": 32,
+            "approximation": "flipRow"
+          },
+          {
+            "hook": "camRock",
+            "start": 384,
+            "span": 32,
+            "approximation": "cam.rotZ"
+          },
+          {
+            "hook": "halo",
+            "start": 476,
+            "span": 12,
+            "approximation": "halo"
+          },
+          {
+            "hook": "sway",
+            "start": 32,
+            "span": 32,
+            "approximation": "sway"
+          },
+          {
+            "hook": "step",
+            "start": 96,
+            "span": 64,
+            "approximation": "flipRow"
+          },
+          {
+            "hook": "sway",
+            "start": 256,
+            "span": 28,
+            "approximation": "sway"
+          },
+          {
+            "hook": "step",
+            "start": 320,
+            "span": 32,
+            "approximation": "flipRow"
+          },
+          {
+            "hook": "camRock",
+            "start": 384,
+            "span": 32,
+            "approximation": "cam.rotZ"
+          },
+          {
+            "hook": "halo",
+            "start": 476,
+            "span": 12,
+            "approximation": "halo"
+          }
+        ]
+      },
+      "headbasher": {
+        "cueRows": 145,
+        "uniqueChannels": 18,
+        "approximatedEveryHooks": []
+      },
+      "rightpace": {
+        "cueRows": 3,
+        "uniqueChannels": 2,
+        "approximatedEveryHooks": []
+      },
+      "tangerine": {
+        "cueRows": 5199,
+        "uniqueChannels": 46,
+        "approximatedEveryHooks": [
+          {
+            "hook": "ring",
+            "start": 164,
+            "span": 32,
+            "approximation": "pinch"
+          },
+          {
+            "hook": "ring",
+            "start": 292,
+            "span": 32,
+            "approximation": "pinch"
+          },
+          {
+            "hook": "ring",
+            "start": 324,
+            "span": 16,
+            "approximation": "pinch"
+          }
+        ]
+      },
+      "tangerine_normal": {
+        "cueRows": 4800,
+        "uniqueChannels": 36,
+        "approximatedEveryHooks": [
+          {
+            "hook": "ring",
+            "start": 164,
+            "span": 32,
+            "approximation": "pinch"
+          },
+          {
+            "hook": "ring",
+            "start": 292,
+            "span": 32,
+            "approximation": "pinch"
+          }
+        ]
+      }
+    },
+    "unsupportedExpressionCount": 49,
+    "unsupportedHookCount": 0,
+    "warnings": [],
+    "stdout": "ModCharts exportados para: /storage/emulated/0/.FNFTools/HEX-PORT/data/modcharts\n- eye2eye: dedicated Eye2Eye song script already has its own timeline; omit --skip-eye2eye to export for analysis\n- detected: 1914\n- detected_normal: 1144\n- headbasher: 145\n- rightpace: 3\n- tangerine: 5199\n- tangerine_normal: 4800\nExpressões sem tradução: 49 hooks aproximados/não suportados: 0\nRelatório: /storage/emulated/0/.FNFTools/HEX-PORT/HEX_MODCHART_CONVERSION_REPORT.json\n",
+    "stderr": "",
+    "note": "JSON de cues é conversão estática/aproximada, não execução do interpretador Haxe original."
+  },
+  "songDiscovery": {
+    "looseOrCuratedPairs": 30,
+    "archivesScanned": [],
+    "songsWithoutWeekAreIncluded": true,
+    "note": "A faixa só pode ser gerada quando existe um par chart/metadados; a reprodução precisa de Inst*.ogg. Confira omittedOriginalSongs e songsMissingCharts no relatório."
+  },
+  "freeplaySectionSource": "original V-Slice level JSON files",
+  "freeplaySectionOrders": {
+    "Week X": [
+      "dunk",
+      "ram",
+      "hello-world",
+      "glitcher",
+      "encore"
+    ],
+    "Weekend X": [
+      "cooling",
+      "detected",
+      "java",
+      "lcd",
+      "glitcher-remix"
+    ],
+    "Event X": [
+      "bit",
+      "jumpin",
+      "headbasher",
+      "bombs-n-combs",
+      "lan",
+      "hexcript",
+      "thatretrosong",
+      "eye2eye",
+      "tangerine",
+      "rightpace"
+    ]
+  },
+  "freeplaySections": [
+    {
+      "title": "Week X",
+      "id": "week-x",
+      "songs": 10,
+      "sourceSongs": [
+        "dunk",
+        "ram",
+        "hello-world",
+        "glitcher",
+        "encore"
+      ]
+    },
+    {
+      "title": "Weekend X",
+      "id": "weekend-x",
+      "songs": 9,
+      "sourceSongs": [
+        "cooling",
+        "detected",
+        "java",
+        "lcd",
+        "glitcher-remix"
+      ]
+    },
+    {
+      "title": "Event X",
+      "id": "event-x",
+      "songs": 11,
+      "sourceSongs": [
+        "bit",
+        "jumpin",
+        "headbasher",
+        "bombs-n-combs",
+        "lan",
+        "hexcript",
+        "thatretrosong",
+        "eye2eye",
+        "tangerine",
+        "rightpace"
+      ]
+    }
+  ],
+  "postRepair": {
+    "status": "ok",
+    "returnCode": 0,
+    "stdout": "play/songs/ram/ram-chart-new.json\nSOURCE CANDIDATE: gameplay/songs/ram/ram-chart.json\nSOURCE CANDIDATE: gameplay/songs/rightpace/rightpace-chart.json\nSOURCE CANDIDATE: gameplay/songs/tangerine/tangerine-chart.json\nSOURCE CANDIDATE: gameplay/songs/thatretrosong/thatretrosong-chart.json\nSOURCE CANDIDATE: concept-or-unused/thatretrosong-erect/ludacris/gameplay/songs/that-ludacris-song/that-ludacris-song-chart.json\nCHART b.i.t.: 32 unique events; removed 0 negative-lane event notes; source=gameplay/songs/bit/bit-chart.json\nCHART b.i.t.-(erect): 44 unique events; removed 0 negative-lane event notes; source=gameplay/songs/bit/bit-chart-erect.json\nCHART bombs-n'-combs: no recognized events found; no files changed. source=gameplay/songs/bombs-n-combs/bombs-n-combs-chart.json\nCHART cooling: 50 unique events; removed 0 negative-lane event notes; source=gameplay/songs/cooling/cooling-chart.json\nCHART cooling-(new): 50 unique events; removed 0 negative-lane event notes; source=gameplay/songs/cooling/cooling-chart-new.json\nCHART detected: 67 unique events; removed 0 negative-lane event notes; source=gameplay/songs/detected/detected-chart.json\nCHART detected-(new): 67 unique events; removed 0 negative-lane event notes; source=gameplay/songs/detected/detected-chart-new.json\nCHART dunk: 38 unique events; removed 0 negative-lane event notes; source=gameplay/songs/dunk/dunk-chart.json\nCHART dunk-(2026): 36 unique events; removed 0 negative-lane event notes; source=gameplay/songs/dunk/dunk-chart-new.json\nCHART encore: 55 unique events; removed 0 negative-lane event notes; source=gameplay/songs/encore/encore-chart.json\nCHART encore-(2026): 55 unique events; removed 0 negative-lane event notes; source=gameplay/songs/encore/encore-chart-new.json\nCHART eye2eye: no recognized events found; no files changed. source=gameplay/songs/eye2eye/eye2eye-chart.json\nCHART glitcher: 51 unique events; removed 0 negative-lane event notes; source=gameplay/songs/glitcher/glitcher-chart.json\nCHART glitcher-(2026): 51 unique events; removed 0 negative-lane event notes; source=gameplay/songs/glitcher/glitcher-chart-new.json\nCHART glitcher-(remix): 61 unique events; removed 0 negative-lane event notes; source=gameplay/songs/glitcher-remix/glitcher-remix-chart.json\nCHART headbasher: 12 unique events; removed 0 negative-lane event notes; source=gameplay/songs/headbasher/headbasher-chart.json\nCHART hello-world: 32 unique events; removed 0 negative-lane event notes; source=gameplay/songs/hello-world/hello-world-chart.json\nCHART hello-world-(2026): 32 unique events; removed 0 negative-lane event notes; source=gameplay/songs/hello-world/hello-world-chart-new.json\nCHART hexcript: 21 unique events; removed 0 negative-lane event notes; source=gameplay/songs/hexcript/hexcript-chart.json\nCHART java: 46 unique events; removed 0 negative-lane event notes; source=gameplay/songs/java/java-chart.json\nCHART java-(2026): 46 unique events; removed 0 negative-lane event notes; source=gameplay/songs/java/java-chart-new.json\nCHART jumpin': no recognized events found; no files changed. source=gameplay/songs/jumpin/jumpin-chart.json\nCHART lan: 36 unique events; removed 0 negative-lane event notes; source=gameplay/songs/lan/lan-chart.json\nCHART lcd: 31 unique events; removed 0 negative-lane event notes; source=gameplay/songs/lcd/lcd-chart.json\nCHART lcd-(2026): 31 unique events; removed 0 negative-lane event notes; source=gameplay/songs/lcd/lcd-chart-new.json\nCHART ram: 32 unique events; removed 0 negative-lane event notes; source=gameplay/songs/ram/ram-chart.json\nCHART ram-(2026): 32 unique events; removed 0 negative-lane event notes; source=gameplay/songs/ram/ram-chart-new.json\nCHART right-pace: 1 unique events; removed 0 negative-lane event notes; source=gameplay/songs/rightpace/rightpace-chart.json\nCHART tangerine: 71 unique events; removed 0 negative-lane event notes; source=gameplay/songs/tangerine/tangerine-chart.json\nCHART that-retro-song: 58 unique events; removed 0 negative-lane event notes; source=gameplay/songs/thatretrosong/thatretrosong-chart.json\nSTAGE HScript stages/basketCourt.hx: source Hex zIndex values preserved\nSTAGE HScript stages/bombsncombs.hx: source Hex zIndex values preserved\nSTAGE HScript stages/headbasher.hx: source Hex zIndex values preserved\nSTAGE HScript stages/iris_void.hx: normalized/inserted 2 static zIndex assignments\nSTAGE HScript stages/lan.hx: source Hex zIndex values preserved\nSTAGE HScript stages/retro.hx: source Hex zIndex values preserved\nSTAGE HScript stages/rightpace.hx: source Hex zIndex values preserved\nSTAGE HScript stages/streetside.hx: source Hex zIndex values preserved\nSTAGE HScript stages/train-erect.hx: source Hex zIndex values preserved\nSTAGE HScript stages/train.hx: source Hex zIndex values preserved\nSTAGE HScript stages/windows.hx: source Hex zIndex values preserved\nSTAGE HScript stages/xstage.hx: source Hex zIndex values preserved\nSTAGE HScript stages/xstage_glitcher.hx: source Hex zIndex values preserved\nSTAGE HScript stages/xstage_glitcher_new.hx: source Hex zIndex values preserved\nSTAGE HScript stages/xstage_new.hx: source Hex zIndex values preserved\nSTAGE HScript stages/xstage_night.hx: source Hex zIndex values preserved\nSTAGE HScript stages/xstage_night_new.hx: source Hex zIndex values preserved\nSTAGE HScript stages/xstage_sunset.hx: source Hex zIndex values preserved\nSTAGE HScript stages/xstage_sunset_new.hx: source Hex zIndex values preserved\nSTAGE HScript stages/xwstage.hx: source Hex zIndex values preserved\nSTAGE HScript stages/xwstage_detected.hx: source Hex zIndex values preserved\nSTAGE HScript stages/xwstage_detected_new.hx: source Hex zIndex values preserved\nSTAGE HScript stages/xwstage_detected_rmx.hx: source Hex zIndex values preserved\nSTAGE HScript stages/xwstage_new.hx: source Hex zIndex values preserved\nSTAGE HScript stages/xwstagedef.hx: source Hex zIndex values preserved\nSTAGE HScript stages/xwstagedef_new.hx: source Hex zIndex values preserved\nSTAGE HScript stages/xwstagelcd.hx: source Hex zIndex values preserved\nSTAGE HScript stages/xwstagelcd_new.hx: source Hex zIndex values preserved\n\nSource chart matches: 30\nChart folders repaired: 27\nUnique events written/retained: 1138\nStage JSON files modified: 0\nstageObjects zIndex values rebalanced: 0\nHScript zIndex assignments normalized/inserted: 2\nRam (2026) packages renamed: 1\nRam (2026) instrumentals repaired: 1\nFiles with Ram (2026) references updated: 4\nRam (2026) chart-title files updated: 0\nRam (2026) week-title files updated: 1\n\nNOTE: source matching normalizes punctuation and matches chart filename variants (for example bit-chart-erect -> b.i.t.-(erect)); new/2026 aliases are equivalent only as a lower-priority variant match. Ambiguous ties are skipped.\nNOTE: SOURCE CANDIDATE lines list the actual files discovered under --source. For unmatched charts, related candidates are diagnostic only and are never imported by fuzzy name similarity.\nNOTE: Known Hex {t,e,v} events are converted to Legacy-compatible event triplets handled by HexModchartRuntime; unknown Hex event types are skipped and recorded in PORT-REPORT.json rather than dispatched with invalid parameters.\nNOTE: Ram (2026) audio repair copies source Inst-new.ogg into the separate ram-(2026) package as Inst.ogg; normal Ram audio is kept separate.\nNOTE: display text uses exactly 'Ram (2026)' and the internal package/week key is exactly 'ram-(2026)'. Week references ram-(new), ram-new, ram-2026, or ram-(2026) are normalized to ram-(2026).\nNOTE: foreground/background classification uses object names/assets. Review unusual names; no script can infer the intended layering of every custom sprite automatically.\nNOTE: preserving an event in events.json does not implement a Hex-only mechanic. Events unsupported by Legacy still need an HScript mechanic/event handler.\nNOTE: changes were applied. Original files were backed up unless --no-backups was used.\n\nReport saved to: /storage/emulated/0/.FNFTools/HEX-PORT/hex_v3_legacy_repair_report.txt\n",
+    "stderr": "",
+    "reportFile": "hex_v3_legacy_repair_report.txt",
+    "note": "Event records and static z-index repairs are structural; Hex-only events still need behavior in the target engine."
+  },
+  "stageDiagnostics": {
+    "status": "partial",
+    "returnCode": 1,
+    "summary": {},
+    "stageSummary": {},
+    "stdout": "",
+    "stderr": "Traceback (most recent call last):\n  File \"/storage/emulated/0/.FNFTools/aa/HexV3_Legacy_Mobile_PortKit_v0_6/tools/hex_v3_stage_diagnostics.py\", line 394, in <module>\n    raise SystemExit(main())\n                     ~~~~^^\n  File \"/storage/emulated/0/.FNFTools/aa/HexV3_Legacy_Mobile_PortKit_v0_6/tools/hex_v3_stage_diagnostics.py\", line 227, in main\n    if ap and source_asset_path(source_root, ap) is None:\n              ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^\n  File \"/storage/emulated/0/.FNFTools/aa/HexV3_Legacy_Mobile_PortKit_v0_6/tools/hex_v3_stage_diagnostics.py\", line 90, in source_asset_path\n    direct = case_path(stage_root / s)\n  File \"/storage/emulated/0/.FNFTools/aa/HexV3_Legacy_Mobile_PortKit_v0_6/tools/hex_v3_stage_diagnostics.py\", line 32, in case_path\n    found = next((p for p in current.iterdir() if p.name.casefold() == part.casefold()), None)\n                             ~~~~~~~~~~~~~~~^^\n  File \"/data/data/com.termux/files/usr/lib/python3.14/pathlib/__init__.py\", line 836, in iterdir\n    with os.scandir(root_dir) as scandir_it:\n         ~~~~~~~~~~^^^^^^^^^^\nPermissionError: [Errno 13] Permission denied: '/'\n",
+    "reportFiles": [
+      "STAGE-DIAGNOSTICS.json",
+      "STAGE-DIAGNOSTICS.txt"
+    ],
+    "note": "Read-only static inspection; it does not prove camera/position correctness in gameplay."
+  },
+  "summary": {
+    "songsBuilt": 30,
+    "stagesBuilt": 28,
+    "charactersBuilt": 48,
+    "freeplaySections": [
+      {
+        "title": "Week X",
+        "id": "week-x",
+        "songs": 10,
+        "sourceSongs": [
+          "dunk",
+          "ram",
+          "hello-world",
+          "glitcher",
+          "encore"
+        ]
+      },
+      {
+        "title": "Weekend X",
+        "id": "weekend-x",
+        "songs": 9,
+        "sourceSongs": [
+          "cooling",
+          "detected",
+          "java",
+          "lcd",
+          "glitcher-remix"
+        ]
+      },
+      {
+        "title": "Event X",
+        "id": "event-x",
+        "songs": 11,
+        "sourceSongs": [
+          "bit",
+          "jumpin",
+          "headbasher",
+          "bombs-n-combs",
+          "lan",
+          "hexcript",
+          "thatretrosong",
+          "eye2eye",
+          "tangerine",
+          "rightpace"
+        ]
+      }
+    ],
+    "sourceSongsIncluded": [
+      "bit",
+      "bombs-n-combs",
+      "cooling",
+      "detected",
+      "dunk",
+      "encore",
+      "eye2eye",
+      "glitcher",
+      "glitcher-remix",
+      "headbasher",
+      "hello-world",
+      "hexcript",
+      "java",
+      "jumpin",
+      "lan",
+      "lcd",
+      "ram",
+      "rightpace",
+      "tangerine",
+      "thatretrosong"
+    ]
+  }
+}

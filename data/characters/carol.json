@@ -1,0 +1,77 @@
+{
+  "animations": [
+    {
+      "offsets": [
+        -1.0,
+        0.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "carolIDLE"
+    },
+    {
+      "offsets": [
+        68.0,
+        -6.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "carolLEFT"
+    },
+    {
+      "offsets": [
+        29.0,
+        -33.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "carolDOWN"
+    },
+    {
+      "offsets": [
+        9.0,
+        28.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "carolUP"
+    },
+    {
+      "offsets": [
+        -24.0,
+        0.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "carolRIGHT"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/hex/carol",
+  "position": [
+    0.0,
+    0.0
+  ],
+  "dance_every": 1,
+  "healthicon": "carol",
+  "flip_x": false,
+  "healthbar_colour": -12779777,
+  "camera_position": [
+    0,
+    0
+  ],
+  "sing_duration": 4.0,
+  "scale": 0.9,
+  "scalableOffsets": false,
+  "vslice_sustains": false
+}

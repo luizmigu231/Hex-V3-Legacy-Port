@@ -1,0 +1,77 @@
+{
+  "animations": [
+    {
+      "offsets": [
+        -1.0,
+        0.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "whittyIDLE"
+    },
+    {
+      "offsets": [
+        138.0,
+        24.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "whittyLEFT"
+    },
+    {
+      "offsets": [
+        89.0,
+        -93.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "whittyDOWN"
+    },
+    {
+      "offsets": [
+        159.0,
+        93.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "whittyUP"
+    },
+    {
+      "offsets": [
+        64.0,
+        -4.0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "whittyRIGHT"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/hex/whitty",
+  "position": [
+    0.0,
+    0.0
+  ],
+  "dance_every": 1,
+  "healthicon": "whitty",
+  "flip_x": false,
+  "healthbar_colour": -12779777,
+  "camera_position": [
+    0,
+    0
+  ],
+  "sing_duration": 4.0,
+  "scale": 0.8,
+  "scalableOffsets": false,
+  "vslice_sustains": false
+}
