@@ -1,0 +1,387 @@
+{
+  "generatedAt": "2026-10-14T19:25:39",
+  "root": "/data/data/com.termux/files/home/Hex-V3-Legacy-Port-clean",
+  "hexSourceRoot": "/data/data/com.termux/files/home/Hex-V3",
+  "installedFirstRepairPass": true,
+  "counts": {
+    "songFolders": 30,
+    "validChartJsonFiles": 91,
+    "chartFilesByDifficulty": {
+      "easy": 30,
+      "hard": 30,
+      "normal": 30,
+      "technical": 1
+    },
+    "eventsJsonFiles": 27,
+    "eventsInExternalFiles": 1165,
+    "stagesJson": 28,
+    "stagesHScript": 28,
+    "fragmentShaders": 22,
+    "specialNoteKindsInCharts": {
+      "hex": 118,
+      "hexAnd": 264,
+      "mine_slasher": 62,
+      "mine_reg": 253
+    }
+  },
+  "chartJsonErrors": [],
+  "missingAudioByFileCheck": [],
+  "missingStageJsonRefs": [],
+  "noteTypesWithoutHandlers": [],
+  "weekConfig": [
+    {
+      "file": "week-x.json",
+      "storyName": "Week X",
+      "hideStoryMode": true,
+      "hideFreeplay": false,
+      "songs": 10
+    },
+    {
+      "file": "weekend-x.json",
+      "storyName": "Weekend X",
+      "hideStoryMode": true,
+      "hideFreeplay": false,
+      "songs": 9
+    },
+    {
+      "file": "event-x.json",
+      "storyName": "Event X",
+      "hideStoryMode": true,
+      "hideFreeplay": false,
+      "songs": 11
+    }
+  ],
+  "eventsByName": {
+    "HEX FocusCamera": 1077,
+    "HEX CharacterLook": 14,
+    "HEX PlayAnimation": 2,
+    "HEX SwitchCharacter": 25,
+    "HEX SetCameraBop": 22,
+    "HEX ZoomCamera": 25
+  },
+  "modchartAuditFromReport": {
+    "unsupportedExpressionCount": 49,
+    "unsupportedExpressions": [
+      "\"flipRow\" + 0",
+      "\"flipRow\" + 1",
+      "\"flipRow\" + 2",
+      "\"flipRow\" + 3",
+      "-10 * mu",
+      "1 / div",
+      "10 * mu",
+      "amount * f1 * lean",
+      "amount * f2 * lean",
+      "at",
+      "at + 1.75",
+      "at + back",
+      "at - 0.5",
+      "at - 1",
+      "at - 2",
+      "atBeat",
+      "atBeat + 16 + 4 + 8 * 0",
+      "atBeat + 16 + 4 + 8 * 1",
+      "atBeat + 16 + 8 * 0",
+      "atBeat + 16 + 8 * 1",
+      "atBeat + 4 + 8 * 0",
+      "atBeat + 4 + 8 * 1",
+      "atBeat + 8 * 0",
+      "atBeat + 8 * 1",
+      "b",
+      "b + i * (1 / div)",
+      "b - intime",
+      "base",
+      "base + 15",
+      "base + 16",
+      "base + 17",
+      "base + 18",
+      "base + 19",
+      "base + 20",
+      "base + 21",
+      "base + 22",
+      "base + 23",
+      "base + 24",
+      "base + 26",
+      "base + 7",
+      "base + 8",
+      "curve",
+      "intime",
+      "len",
+      "len - intime",
+      "self.hiddenAt(100)",
+      "self.hiddenAt(200)",
+      "self.hiddenAt(400)",
+      "self.hiddenAt(50)"
+    ],
+    "unsupportedHookCount": 0,
+    "chartStats": {
+      "eye2eye": {
+        "skipped": "dedicated Eye2Eye song script already has its own timeline; omit --skip-eye2eye to export for analysis"
+      },
+      "detected": {
+        "cueRows": 1914,
+        "uniqueChannels": 52,
+        "approximatedEveryHooks": [
+          {
+            "hook": "sway",
+            "start": 32,
+            "span": 32,
+            "approximation": "sway"
+          },
+          {
+            "hook": "wrap",
+            "start": 64,
+            "span": 31,
+            "approximation": "wrap"
+          },
+          {
+            "hook": "step",
+            "start": 96,
+            "span": 64,
+            "approximation": "flipRow"
+          },
+          {
+            "hook": "sway",
+            "start": 256,
+            "span": 28,
+            "approximation": "sway"
+          },
+          {
+            "hook": "wrap",
+            "start": 288,
+            "span": 32,
+            "approximation": "wrap"
+          },
+          {
+            "hook": "step",
+            "start": 320,
+            "span": 64,
+            "approximation": "flipRow"
+          },
+          {
+            "hook": "camRock",
+            "start": 384,
+            "span": 32,
+            "approximation": "cam.rotZ"
+          },
+          {
+            "hook": "halo",
+            "start": 476,
+            "span": 12,
+            "approximation": "halo"
+          },
+          {
+            "hook": "wrap",
+            "start": 448,
+            "span": 28,
+            "approximation": "wrap"
+          },
+          {
+            "hook": "sway",
+            "start": 32,
+            "span": 32,
+            "approximation": "sway"
+          },
+          {
+            "hook": "wrap",
+            "start": 64,
+            "span": 31,
+            "approximation": "wrap"
+          },
+          {
+            "hook": "step",
+            "start": 96,
+            "span": 64,
+            "approximation": "flipRow"
+          },
+          {
+            "hook": "sway",
+            "start": 256,
+            "span": 28,
+            "approximation": "sway"
+          },
+          {
+            "hook": "wrap",
+            "start": 288,
+            "span": 32,
+            "approximation": "wrap"
+          },
+          {
+            "hook": "step",
+            "start": 320,
+            "span": 64,
+            "approximation": "flipRow"
+          },
+          {
+            "hook": "camRock",
+            "start": 384,
+            "span": 32,
+            "approximation": "cam.rotZ"
+          },
+          {
+            "hook": "wrap",
+            "start": 448,
+            "span": 28,
+            "approximation": "wrap"
+          },
+          {
+            "hook": "halo",
+            "start": 476,
+            "span": 12,
+            "approximation": "halo"
+          }
+        ]
+      },
+      "detected_normal": {
+        "cueRows": 1144,
+        "uniqueChannels": 42,
+        "approximatedEveryHooks": [
+          {
+            "hook": "sway",
+            "start": 32,
+            "span": 32,
+            "approximation": "sway"
+          },
+          {
+            "hook": "easyDrunk",
+            "start": 64,
+            "span": 28,
+            "approximation": "easydrunk"
+          },
+          {
+            "hook": "sway",
+            "start": 256,
+            "span": 28,
+            "approximation": "sway"
+          },
+          {
+            "hook": "step",
+            "start": 96,
+            "span": 64,
+            "approximation": "flipRow"
+          },
+          {
+            "hook": "easyDrunk",
+            "start": 288,
+            "span": 28,
+            "approximation": "easydrunk"
+          },
+          {
+            "hook": "step",
+            "start": 320,
+            "span": 32,
+            "approximation": "flipRow"
+          },
+          {
+            "hook": "camRock",
+            "start": 384,
+            "span": 32,
+            "approximation": "cam.rotZ"
+          },
+          {
+            "hook": "halo",
+            "start": 476,
+            "span": 12,
+            "approximation": "halo"
+          },
+          {
+            "hook": "sway",
+            "start": 32,
+            "span": 32,
+            "approximation": "sway"
+          },
+          {
+            "hook": "step",
+            "start": 96,
+            "span": 64,
+            "approximation": "flipRow"
+          },
+          {
+            "hook": "sway",
+            "start": 256,
+            "span": 28,
+            "approximation": "sway"
+          },
+          {
+            "hook": "step",
+            "start": 320,
+            "span": 32,
+            "approximation": "flipRow"
+          },
+          {
+            "hook": "camRock",
+            "start": 384,
+            "span": 32,
+            "approximation": "cam.rotZ"
+          },
+          {
+            "hook": "halo",
+            "start": 476,
+            "span": 12,
+            "approximation": "halo"
+          }
+        ]
+      },
+      "headbasher": {
+        "cueRows": 145,
+        "uniqueChannels": 18,
+        "approximatedEveryHooks": []
+      },
+      "rightpace": {
+        "cueRows": 3,
+        "uniqueChannels": 2,
+        "approximatedEveryHooks": []
+      },
+      "tangerine": {
+        "cueRows": 5199,
+        "uniqueChannels": 46,
+        "approximatedEveryHooks": [
+          {
+            "hook": "ring",
+            "start": 164,
+            "span": 32,
+            "approximation": "pinch"
+          },
+          {
+            "hook": "ring",
+            "start": 292,
+            "span": 32,
+            "approximation": "pinch"
+          },
+          {
+            "hook": "ring",
+            "start": 324,
+            "span": 16,
+            "approximation": "pinch"
+          }
+        ]
+      },
+      "tangerine_normal": {
+        "cueRows": 4800,
+        "uniqueChannels": 36,
+        "approximatedEveryHooks": [
+          {
+            "hook": "ring",
+            "start": 164,
+            "span": 32,
+            "approximation": "pinch"
+          },
+          {
+            "hook": "ring",
+            "start": 292,
+            "span": 32,
+            "approximation": "pinch"
+          }
+        ]
+      }
+    }
+  },
+  "previousPortReportSummary": {
+    "reportedSongsBuilt": 30,
+    "reportedStagesBuilt": 28,
+    "oldUnsupportedNoteKinds": 697,
+    "oldMissingSongs": [],
+    "oldMissingAudio": []
+  },
+  "missingMineAssetsAfterInstall": [],
+  "runtimeTesting": "Static audit only. Android/Legacy in-game test is still required; this script cannot verify HScript execution or visual/performance fidelity."
+}

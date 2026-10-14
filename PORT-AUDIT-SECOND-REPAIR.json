@@ -1,0 +1,29 @@
+{
+  "generatedAt": "2026-10-14T20:34:51",
+  "root": "/data/data/com.termux/files/home/Hex-V3-Legacy-Port-clean",
+  "backupRoot": "/data/data/com.termux/files/home/.FNFTools/hex-port-backups/second-repair-20261014-203451",
+  "patchedFiles": [
+    "scripts/HexSpecialNotes.hx",
+    "data/notetypes/hex.hx",
+    "data/notetypes/mine_reg.hx",
+    "data/notetypes/mine_slasher.hx",
+    "scripts/modifiers/HexCompatibility.hx"
+  ],
+  "copiedAssets": [
+    "images/notes/hex_mine_slasher.png",
+    "images/notes/hex_mine_slasher.xml"
+  ],
+  "checks": {
+    "hexSetupDoesNotDependOnPlayFieldDuringSpawn": true,
+    "mineComboFinalizerAdded": true,
+    "mineComboCorrectionDeferredToEndOfFrame": true,
+    "pendingMineMarksSourceNoteTriggered": true,
+    "mineComboUsesScriptOwnedState": true,
+    "slasherDeathHookFallbackAdded": true,
+    "slasherAtlasConfigured": true,
+    "slasherAtlasPngCopied": true,
+    "slasherAtlasXmlCopied": true,
+    "nativeModifiersNotReapplied": true
+  },
+  "runtimeTesting": "Static source patch only. Legacy HScript execution, mobile input timing, rendering, and in-game death behavior still need Android testing."
+}

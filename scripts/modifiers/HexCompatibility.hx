@@ -43,11 +43,13 @@ function getSubmods()
 
 function hv(name:String, player:Int):Float
 {
-	if (modMgr == null) return 0;
-	var mod = modMgr.get(name);
-	if (mod == null) return 0;
-	var value:Dynamic = mod.getValue(player);
-	return value == null || Math.isNaN(value) ? 0 : value;
+        if (modMgr == null) return 0;
+        // Native Legacy modifiers are already applied by the engine; only emulate missing Hex modifiers.
+        if (modMgr.register != null && modMgr.register.exists(name)) return 0;
+        var mod = modMgr.get(name);
+        if (mod == null) return 0;
+        var value:Dynamic = mod.getValue(player);
+        return value == null || Math.isNaN(value) ? 0 : value;
 }
 
 function clamp(value:Float, min:Float, max:Float):Float
